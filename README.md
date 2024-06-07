@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -10,9 +11,30 @@
 *   [Python](#python)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
-*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Java](#java)
+
+## JavaScript
+
+*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
+
+*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
+
+*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
+
+*   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
+
+*   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
+
+*   [73rhodes/node-python](https://github.com/73rhodes/node-python) - Communicate with a long-running Python child process from NodeJS.
+
+*   [micromaomao/schsrch](https://github.com/micromaomao/schsrch) - Simple and intuitive CIE search engine
+
+*   [Maximillion195/google-shopping-list](https://github.com/Maximillion195/google-shopping-list) - Scrapes the shopping list from shoppinglist.google.com as Google does not seem to have an API for this.
+
+*   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
+
+*   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
 
 ## CSS
 
@@ -79,24 +101,6 @@
 *   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 
 *   [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
-
-## JavaScript
-
-*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
-
-*   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
-
-*   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
-
-*   [73rhodes/node-python](https://github.com/73rhodes/node-python) - Communicate with a long-running Python child process from NodeJS.
-
-*   [micromaomao/schsrch](https://github.com/micromaomao/schsrch) - Simple and intuitive CIE search engine
-
-*   [Maximillion195/google-shopping-list](https://github.com/Maximillion195/google-shopping-list) - Scrapes the shopping list from shoppinglist.google.com as Google does not seem to have an API for this.
-
-*   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
-
-*   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
 
 ## Shell
 
