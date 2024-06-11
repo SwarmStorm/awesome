@@ -59,8 +59,6 @@
 
 *   [evnz/blog-example-single-cf-distribution](https://github.com/evnz/blog-example-single-cf-distribution) - Example of single Amazon CloudFront distribution for both your web app hosted on S3 bucket and API Gateway backend
 
-*   [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-
 *   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
 
 *   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
@@ -72,6 +70,8 @@
 *   [grahamjenson/list\_of\_recommender\_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 
 *   [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
+
+*   [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 
 ## Vue
 
