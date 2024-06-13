@@ -2,18 +2,23 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Python](#python)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [Java](#java)
+
+## C
+
+*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 
 ## TypeScript
 
