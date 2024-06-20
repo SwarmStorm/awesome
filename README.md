@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Perl](#perl)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
@@ -9,7 +10,6 @@
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
-*   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Vue](#vue)
@@ -18,6 +18,28 @@
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [Java](#java)
+
+## TypeScript
+
+*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+
+*   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
+
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
+
+*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+*   [pwafire/pwafire](https://github.com/pwafire/pwafire) - Progressive Web Apps API of APIs
+
+*   [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
+
+*   [evnz/blog-example-single-cf-distribution](https://github.com/evnz/blog-example-single-cf-distribution) - Example of single Amazon CloudFront distribution for both your web app hosted on S3 bucket and API Gateway backend
+
+*   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
+
+*   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
 
 ## Perl
 
@@ -84,26 +106,6 @@
 ## C
 
 *   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-
-## TypeScript
-
-*   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
-
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-*   [pwafire/pwafire](https://github.com/pwafire/pwafire) - Progressive Web Apps API of APIs
-
-*   [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
-
-*   [evnz/blog-example-single-cf-distribution](https://github.com/evnz/blog-example-single-cf-distribution) - Example of single Amazon CloudFront distribution for both your web app hosted on S3 bucket and API Gateway backend
-
-*   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
-
-*   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
 
 ## PHP
 
