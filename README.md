@@ -2,7 +2,10 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [JavaScript](#javascript)
+*   [Shell](#shell)
+*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -13,10 +16,17 @@
 *   [Python](#python)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [Java](#java)
 
+## HTML
+
+*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+
 ## JavaScript
+
+*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
+
+*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 
 *   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
 
@@ -41,6 +51,18 @@
 *   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 
 *   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
+
+## Shell
+
+*   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
+
+*   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
+
+*   [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
+
+## Go
+
+*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 
 ## miscellaneous
 
@@ -119,10 +141,6 @@
 *   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 
 *   [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
-
-## Shell
-
-*   [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
 
 ## Java
 
