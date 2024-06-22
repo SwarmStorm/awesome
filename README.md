@@ -21,6 +21,8 @@
 
 ## TypeScript
 
+*   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
+
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 *   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
