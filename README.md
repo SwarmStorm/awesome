@@ -21,6 +21,8 @@
 
 ## TypeScript
 
+*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+
 *   [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
