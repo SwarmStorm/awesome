@@ -2,30 +2,53 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
 *   [C++](#c)
+*   [C](#c-1)
 *   [TypeScript](#typescript)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Perl](#perl)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c-1)
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [Java](#java)
 
+## Objective-C
+
+*   [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
+
 ## C++
+
+*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
+
+*   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
 
 *   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
 
 *   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
+## C
+
+*   [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
+
+*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+
+*   [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+
+*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+
 ## TypeScript
+
+*   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source VST/audio plugin projects. Please contribute more links or open source your own plugins.
+
+*   [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
 
 *   [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in
 
@@ -60,6 +83,22 @@
 *   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
 
 *   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
+
+## Python
+
+*   [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS
+
+*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+
+*   [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
+
+*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+
+*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+
+*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+
+*   [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
 
 ## JavaScript
 
@@ -125,10 +164,6 @@
 
 *   [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 
-## C
-
-*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-
 ## PHP
 
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -140,20 +175,6 @@
 ## Vue
 
 *   [supaflare/supaflare](https://github.com/supaflare/supaflare) - URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
-
-## Python
-
-*   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-
-*   [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
-
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-
-*   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-
-*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-
-*   [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
 
 ## Ruby
 
