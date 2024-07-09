@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
+*   [Go](#go)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [C#](#c)
@@ -14,13 +16,22 @@
 *   [JavaScript](#javascript)
 *   [Perl](#perl)
 *   [Shell](#shell)
-*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [Java](#java)
+
+## Svelte
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+
+## Go
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+
+*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 
 ## HTML
 
@@ -181,10 +192,6 @@
 *   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
 
 *   [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
-
-## Go
-
-*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 
 ## miscellaneous
 
