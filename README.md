@@ -25,6 +25,8 @@
 
 ## TypeScript
 
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+
 *   [rubensworks/rdf-parse.js](https://github.com/rubensworks/rdf-parse.js) - Parses RDF from any serialization
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
