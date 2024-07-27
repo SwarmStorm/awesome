@@ -25,6 +25,8 @@
 
 ## Python
 
+*   [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds
+
 *   [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 
 *   [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
