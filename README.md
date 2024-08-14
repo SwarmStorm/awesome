@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -21,6 +21,32 @@
 *   [CSS](#css)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
+
+## JavaScript
+
+*   [Pythagora-io/code-chat](https://github.com/Pythagora-io/code-chat) -
+
+*   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+
+*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
+
+*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
+
+*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+
+*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
+
+*   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
+
+*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
+
+*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
+
+*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
+
+*   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
 
 ## Python
 
@@ -77,32 +103,6 @@
 *   [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
 
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-
-## JavaScript
-
-*   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
-
-*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
-
-*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
-
-*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
-
-*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
-
-*   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
-
-*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
-
-*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
-
-*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
-
-*   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
-
-*   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
 
 ## TypeScript
 
