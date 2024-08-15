@@ -24,6 +24,8 @@
 
 ## JavaScript
 
+*   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
+
 *   [Pythagora-io/code-chat](https://github.com/Pythagora-io/code-chat) -
 
 *   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -175,8 +177,6 @@
 *   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 
 *   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
-
-*   [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
 
 ## Jupyter Notebook
 
