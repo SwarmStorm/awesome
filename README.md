@@ -56,7 +56,7 @@
 
 *   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 
-*   [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 
