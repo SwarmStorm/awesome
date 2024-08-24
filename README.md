@@ -22,6 +22,8 @@
 
 ## JavaScript
 
+*   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
+
 *   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
 
 *   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
@@ -169,8 +171,6 @@
 *   [Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
 
 *   [grahamjenson/list\_of\_recommender\_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
-
-*   [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
 
 ## Shell
 
