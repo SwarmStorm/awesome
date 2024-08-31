@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -19,6 +20,10 @@
 *   [Perl](#perl)
 *   [PHP](#php)
 *   [CSS](#css)
+
+## Elixir
+
+*   [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
 
 ## JavaScript
 
@@ -169,8 +174,6 @@
 *   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 
 *   [Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
-
-*   [grahamjenson/list\_of\_recommender\_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 
 ## Shell
 
