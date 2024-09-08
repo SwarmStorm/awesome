@@ -124,7 +124,7 @@
 
 ## HTML
 
-*   [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - A website to scrape? There's a simple way.
+*   [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high=quality markdown content.
 
 *   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 
