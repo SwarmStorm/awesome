@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Python](#python)
@@ -19,49 +19,9 @@
 *   [C](#c-2)
 *   [Perl](#perl)
 
-## JavaScript
-
-*   [JohnRbk/lambda-messenger-api](https://github.com/JohnRbk/lambda-messenger-api) - Node.js Chat API using AWS AppSync
-
-*   [gabehollombe-aws/appsync-for-pubsub-demo](https://github.com/gabehollombe-aws/appsync-for-pubsub-demo) - How to use AWS AppSync for simple websocket pub/sub
-
-*   [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
-
-*   [scottcheng/save2drive](https://github.com/scottcheng/save2drive) - A Chrome extension to let you save link, image, audio and video to Google Drive
-
-*   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
-
-*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
-
-*   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
-
-*   [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-
-*   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
-
-*   [Pythagora-io/code-chat](https://github.com/Pythagora-io/code-chat) -
-
-*   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-
-*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
-
-*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
-
-*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
-
-*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
-
-## miscellaneous
-
-*   [gsans/aws-amplify-workshop-angular](https://github.com/gsans/aws-amplify-workshop-angular) - Building Full Stack GraphQL Applications with AWS Amplify and Angular
-
-*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-
-*   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
-
 ## TypeScript
+
+*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
 *   [crazy-max/ghaction-setup-docker](https://github.com/crazy-max/ghaction-setup-docker) - GitHub Action to set up (download and install) Docker CE
 
@@ -118,6 +78,46 @@
 *   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
 
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+
+## JavaScript
+
+*   [JohnRbk/lambda-messenger-api](https://github.com/JohnRbk/lambda-messenger-api) - Node.js Chat API using AWS AppSync
+
+*   [gabehollombe-aws/appsync-for-pubsub-demo](https://github.com/gabehollombe-aws/appsync-for-pubsub-demo) - How to use AWS AppSync for simple websocket pub/sub
+
+*   [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
+
+*   [scottcheng/save2drive](https://github.com/scottcheng/save2drive) - A Chrome extension to let you save link, image, audio and video to Google Drive
+
+*   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
+
+*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
+
+*   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
+
+*   [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+
+*   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
+
+*   [Pythagora-io/code-chat](https://github.com/Pythagora-io/code-chat) -
+
+*   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+
+*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
+
+*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
+
+*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+
+*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
+
+## miscellaneous
+
+*   [gsans/aws-amplify-workshop-angular](https://github.com/gsans/aws-amplify-workshop-angular) - Building Full Stack GraphQL Applications with AWS Amplify and Angular
+
+*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 
 ## Jupyter Notebook
 
