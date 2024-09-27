@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -10,7 +11,6 @@
 *   [HTML](#html)
 *   [Elixir](#elixir)
 *   [Shell](#shell)
-*   [Go](#go)
 *   [Svelte](#svelte)
 *   [C#](#c)
 *   [Vue](#vue)
@@ -18,6 +18,14 @@
 *   [C++](#c-1)
 *   [C](#c-2)
 *   [Perl](#perl)
+
+## Go
+
+*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
+
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run GPU Workloads Across Multiple Clouds
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## miscellaneous
 
@@ -173,8 +181,6 @@
 
 *   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
 
-*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
-
 ## Jupyter Notebook
 
 *   [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -208,12 +214,6 @@
 *   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 
 *   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
-
-## Go
-
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run GPU Workloads Across Multiple Clouds
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## Svelte
 
