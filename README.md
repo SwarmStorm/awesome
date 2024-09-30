@@ -171,7 +171,7 @@
 
 *   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
 
-*   [Pythagora-io/code-chat](https://github.com/Pythagora-io/code-chat) -
+*   [Pythagora-io/codebase-chat](https://github.com/Pythagora-io/codebase-chat) -
 
 *   [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
