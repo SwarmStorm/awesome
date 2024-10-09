@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -10,7 +11,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Elixir](#elixir)
-*   [Shell](#shell)
 *   [Svelte](#svelte)
 *   [C++](#c)
 *   [C#](#c-1)
@@ -18,6 +18,12 @@
 *   [Objective-C](#objective-c)
 *   [C](#c-2)
 *   [Perl](#perl)
+
+## Shell
+
+*   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
+
+*   [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 
 ## JavaScript
 
@@ -203,15 +209,9 @@
 
 *   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
-*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
-
 ## Elixir
 
 *   [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
-
-## Shell
-
-*   [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 
 ## Svelte
 
