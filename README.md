@@ -145,8 +145,6 @@
 
 *   [rfink/sequelize-redis-cache](https://github.com/rfink/sequelize-redis-cache) - Small fluent interface for caching sequelize database query results in redis more easily
 
-*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
-
 *   [mcollina/fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue
 
 *   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
@@ -946,6 +944,8 @@
 *   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
 *   [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
+
+*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
