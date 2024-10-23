@@ -331,7 +331,7 @@
 
 *   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
