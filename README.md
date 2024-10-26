@@ -38,6 +38,8 @@
 
 ## JavaScript
 
+*   [serverless/aws-ai-stack](https://github.com/serverless/aws-ai-stack) - AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS
+
 *   [victorargento/pm2-deployment](https://github.com/victorargento/pm2-deployment) - Deploy your nodejs or typescript app with PM2
 
 *   [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
@@ -753,8 +755,6 @@
 *   [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
 
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-
-*   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 
 ## TypeScript
 
