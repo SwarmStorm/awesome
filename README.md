@@ -192,7 +192,7 @@
 
 *   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
 
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript makes your C# programs run at supercomputer speeds. Learn it in 30 minutes and you can write & debug large and complex GPU projects using C# Object-Oriented Programming.
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript makes your Object-Oriented programs run at supercomputer speeds on a single GPU. Learn it in 30 minutes and you can write & debug large and complex GPU projects.
 
 ## Go
 
