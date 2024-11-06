@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
-*   [C++](#c-1)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Svelte](#svelte)
@@ -35,6 +35,34 @@
 *   [Vue](#vue)
 *   [Ruby](#ruby)
 *   [Elixir](#elixir)
+
+## C++
+
+*   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
+
+*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
+*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
+
+*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+
+*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
 
 ## Python
 
@@ -255,8 +283,6 @@
 *   [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds
 
 *   [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-
-*   [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 
 ## miscellaneous
 
@@ -785,32 +811,6 @@
 *   [Pythagora-io/codebase-chat](https://github.com/Pythagora-io/codebase-chat) -
 
 *   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
-## C++
-
-*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
-
-*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-
-*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-
-*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
 
 ## Shell
 
