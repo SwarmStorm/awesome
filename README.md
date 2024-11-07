@@ -250,7 +250,7 @@
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-*   [AIHawk-app/Auto\_Jobs\_Applier](https://github.com/AIHawk-app/Auto_Jobs_Applier) - Auto\_Jobs\_Applier\_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+*   [AIHawk-co/Auto\_Jobs\_Applier](https://github.com/AIHawk-co/Auto_Jobs_Applier) - Auto\_Jobs\_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 *   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 
