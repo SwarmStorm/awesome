@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Perl](#perl)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
 *   [C++](#c-1)
 *   [Python](#python)
 *   [Go](#go)
@@ -36,6 +36,20 @@
 *   [Ruby](#ruby)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C\#
+
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+
+*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
+
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript makes your Object-Oriented programs run at supercomputer speeds on a single GPU. Learn it in 30 minutes and you can write & debug large and complex GPU projects.
+
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Java
 
@@ -647,8 +661,6 @@
 
 *   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 
-*   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
-
 ## Perl
 
 *   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
@@ -818,18 +830,6 @@
 *   [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
 
 *   [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-
-## C\#
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript makes your Object-Oriented programs run at supercomputer speeds on a single GPU. Learn it in 30 minutes and you can write & debug large and complex GPU projects.
-
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## C++
 
