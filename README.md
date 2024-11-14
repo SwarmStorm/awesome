@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -33,9 +34,20 @@
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
 *   [Vue](#vue)
-*   [Ruby](#ruby)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## Ruby
+
+*   [ReversableCode/flutter\_static\_html\_wrapper](https://github.com/ReversableCode/flutter_static_html_wrapper) - A Flutter project to run html games / websites on mobile.
+
+*   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
+
+*   [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.
+
+*   [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
+
+*   [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 
 ## C\#
 
@@ -113,7 +125,7 @@
 
 *   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 
-*   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+*   [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
 *   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 
@@ -360,8 +372,6 @@
 *   [evnz/blog-example-single-cf-distribution](https://github.com/evnz/blog-example-single-cf-distribution) - Example of single Amazon CloudFront distribution for both your web app hosted on S3 bucket and API Gateway backend
 
 *   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
-
-*   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
 
 ## JavaScript
 
@@ -1486,16 +1496,6 @@
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [supaflare/supaflare](https://github.com/supaflare/supaflare) - URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
-
-## Ruby
-
-*   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
-
-*   [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.
-
-*   [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
-
-*   [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 
 ## Elixir
 
