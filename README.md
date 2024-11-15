@@ -849,6 +849,8 @@
 
 *   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
 
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
 *   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 *   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
@@ -1063,7 +1065,7 @@
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-*   [AIHawk-co/Auto\_Jobs\_Applier\_AI\_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+*   [feder-cr/Auto\_Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Auto_Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 *   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 
@@ -1474,8 +1476,6 @@
 *   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 
 *   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
-
-*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 
 *   [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
 
