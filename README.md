@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Ruby](#ruby)
@@ -36,6 +37,10 @@
 *   [Vue](#vue)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## Zig
+
+*   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 
 ## TypeScript
 
@@ -1130,8 +1135,6 @@
 *   [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
 
 *   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-
-*   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 ## Go
 
