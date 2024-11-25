@@ -40,6 +40,8 @@
 
 ## Python
 
+*   [dustin-cowles/chatbot-lti](https://github.com/dustin-cowles/chatbot-lti) - This is a simple AI-powered chatbot that allows users to ask questions relating to LMS content.
+
 *   [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
 
 *   [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -
@@ -1465,8 +1467,6 @@
 *   [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 
 *   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
-
-*   [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 
 ## Kotlin
 
