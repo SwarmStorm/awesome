@@ -40,6 +40,8 @@
 
 ## Python
 
+*   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
+
 *   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 
 *   [LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
@@ -759,8 +761,6 @@
 *   [grahamjenson/list\_of\_recommender\_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 
 *   [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
-
-*   [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 
 ## Ruby
 
