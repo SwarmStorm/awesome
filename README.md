@@ -40,6 +40,10 @@
 
 ## Python
 
+*   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
+
+*   [LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
+
 *   [dustin-cowles/chatbot-lti](https://github.com/dustin-cowles/chatbot-lti) - This is a simple AI-powered chatbot that allows users to ask questions relating to LMS content.
 
 *   [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
@@ -1090,8 +1094,6 @@
 
 *   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
 
-*   [73rhodes/node-python](https://github.com/73rhodes/node-python) - Communicate with a long-running Python child process from NodeJS.
-
 ## Perl
 
 *   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
@@ -1465,8 +1467,6 @@
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 
 *   [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
-
-*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 
 ## Kotlin
 
