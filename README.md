@@ -24,7 +24,7 @@
 *   [TeX](#tex)
 *   [Swift](#swift)
 *   [HCL](#hcl)
-*   [Smarty](#smarty)
+*   [Mustache](#mustache)
 *   [R](#r)
 *   [Matlab](#matlab)
 *   [Scala](#scala)
@@ -1404,7 +1404,7 @@
 
 *   [k-mitevski/terraform-k8s](https://github.com/k-mitevski/terraform-k8s) - Example code for provisioning Kubernetes clusters on EKS using Terraform.
 
-## Smarty
+## Mustache
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
