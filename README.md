@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [PHP](#php)
 *   [Go](#go)
@@ -11,7 +12,6 @@
 *   [Ruby](#ruby)
 *   [C#](#c)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [Perl](#perl)
 *   [C++](#c-1)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -38,7 +38,297 @@
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
+## JavaScript
+
+*   [SashenJayathilaka/TIK-TOK-Clone](https://github.com/SashenJayathilaka/TIK-TOK-Clone) - Full Stack TikTok Clone with REACT.JS! (Next.js, Tailwind CSS, Video Uploading, Google  Authentication, Tik-Tok Profile)
+
+*   [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
+
+*   [muaz-khan/Ffmpeg.js](https://github.com/muaz-khan/Ffmpeg.js) - Ffmpeg.js demos, both for browsers and node.js
+
+*   [ctdio/electron-transparent-window](https://github.com/ctdio/electron-transparent-window) - An attempt at making overlays work well in electron
+
+*   [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine
+
+*   [ujjwal-kr/positive-vibes](https://github.com/ujjwal-kr/positive-vibes) - A news app built with full-stack javascript with Parental controls and sentiment analysis
+
+*   [serverless/aws-ai-stack](https://github.com/serverless/aws-ai-stack) - AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS
+
+*   [victorargento/pm2-deployment](https://github.com/victorargento/pm2-deployment) - Deploy your nodejs or typescript app with PM2
+
+*   [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
+
+*   [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
+
+*   [chrnorm/deployment-status](https://github.com/chrnorm/deployment-status) - GitHub action to create a deployment status update
+
+*   [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
+
+*   [ttessarolo/useDexie](https://github.com/ttessarolo/useDexie) - React Hooks to use Dexie.js IndexDB library with ease
+
+*   [generalui/s3p](https://github.com/generalui/s3p) - list/copy/sync/compare S3 buckets 5x-50x faster than aws-cli
+
+*   [TomMalbran/games](https://github.com/TomMalbran/games) - A collection of HTML5 Game
+
+*   [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+
+*   [tearoom6/QuickDrive2](https://github.com/tearoom6/QuickDrive2) - Chrome extension to provide quick access to your Google Drive files.
+
+*   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
+
+*   [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
+
+*   [pdaddyo/soundbounce](https://github.com/pdaddyo/soundbounce) - Social listening for Spotify - music sounds better together.
+
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+
+*   [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
+
+*   [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+
+*   [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
+
+*   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+
+*   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+
+*   [google/palette.js](https://github.com/google/palette.js) - Script for generating colour palettes for use with graphs, charts and cartography.
+
+*   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
+
+*   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
+
+*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+
+*   [oauthjs/node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
+
+*   [justadudewhohacks/opencv-express](https://github.com/justadudewhohacks/opencv-express) - Template for using opencv-3.4.1 + opencv-contrib with express.js and docker
+
+*   [nashwaan/xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.
+
+*   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
+
+*   [morungos/node-word-extractor](https://github.com/morungos/node-word-extractor) - Read data from a Word document using node.js
+
+*   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
+
+*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+
+*   [ScreepsMods/screepsmod-mongo](https://github.com/ScreepsMods/screepsmod-mongo) - Replace LokiJS with MongoDB and Redis
+
+*   [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
+
+*   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
+
+*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
+
+*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
+
+*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
+
+*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
+
+*   [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
+
+*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with CLI, Requests not Selenium.
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+*   [dj0nny/svelte-express-boilerplate](https://github.com/dj0nny/svelte-express-boilerplate) - Boilerplate for developing full stack apps with Express and Svelte.js 📦
+
+*   [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
+
+*   [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+
+*   [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
+
+*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
+
+*   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+
+*   [immers-space/activitypub-express](https://github.com/immers-space/activitypub-express) - Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps
+
+*   [immers-space/immers](https://github.com/immers-space/immers) - ActivityPub federated social media server for the metaverse
+
+*   [Maxson52/sveltekit-express-google-auth](https://github.com/Maxson52/sveltekit-express-google-auth) - A web-app template featuring a SvelteKit frontend and Express backend, with Passport and Google OAuth 2.0
+
+*   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
+
+*   [zerodytrash/TikTok-Chat-Reader](https://github.com/zerodytrash/TikTok-Chat-Reader) - Website to display chats and gifts in realtime from your TikTok LIVE stream. Demo project for TikTok-Live-Connector library.
+
+*   [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
+
+*   [zinirun/sequelize-redis-caching](https://github.com/zinirun/sequelize-redis-caching) - Redis caching in CRUD works with Sequelize (MySQL)
+
+*   [rfink/sequelize-redis-cache](https://github.com/rfink/sequelize-redis-cache) - Small fluent interface for caching sequelize database query results in redis more easily
+
+*   [mcollina/fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue
+
+*   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
+
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
+
+*   [carcabot/tiktok-signature](https://github.com/carcabot/tiktok-signature) - Generate tiktok signature token using node
+
+*   [ljacobsson/lambda-debug](https://github.com/ljacobsson/lambda-debug) - Library to help debug JS/TS AWS Lambda functions locally
+
+*   [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
+
+*   [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
+
+*   [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+
+*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+
+*   [mylastore/koa-api](https://github.com/mylastore/koa-api) -
+
+*   [hygraph/hygraph-commerce-starter](https://github.com/hygraph/hygraph-commerce-starter) -
+
+*   [seveibar/postgrest-node](https://github.com/seveibar/postgrest-node) - Use postgrest (RESTful Postgres API) as an npm module and in serverless environments
+
+*   [amirrezasalimi/friday](https://github.com/amirrezasalimi/friday) - Friday is a developer assistant can make whole nodejs project for you with unlimited prompts
+
+*   [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+
+*   [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - We recommend using this amazing boilerplate (our team now use Makerkit instead of SaaStr): https://makerkit.dev/ -- React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Built on top of Adonis JS for the BackEnd and React Starter Kit for the Front-End
+
+*   [nextacular/nextacular](https://github.com/nextacular/nextacular) - An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.
+
+*   [TalAter/SpeechKITT](https://github.com/TalAter/SpeechKITT) - 🗣 A flexible GUI for Speech Recognition
+
+*   [ChalmersLibrary/nodejs-lti-canvas-groups](https://github.com/ChalmersLibrary/nodejs-lti-canvas-groups) - LTI integration for Canvas with different tools for course groups.
+
+*   [js-kyle/nodejs-lti-provider](https://github.com/js-kyle/nodejs-lti-provider) - A minimal LTI provider example using Node.js.
+
+*   [SanDiegoCodeSchool/lti-node-library](https://github.com/SanDiegoCodeSchool/lti-node-library) - Module for building an LTI 1.3 Tool Provider.
+
+*   [Cvmcosta/ltijs](https://github.com/Cvmcosta/ltijs) - Turn your application into a fully integratable LTI 1.3 tool provider.
+
+*   [Cvmcosta/ltijs-demo-server](https://github.com/Cvmcosta/ltijs-demo-server) - Ltijs Demo Application Server
+
+*   [Cvmcosta/ltijs-demo-client](https://github.com/Cvmcosta/ltijs-demo-client) - Ltijs Demo Application Client
+
+*   [Dwitrisha/VidBits](https://github.com/Dwitrisha/VidBits) - TikTok Clone: Video sharing social app
+
+*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
+
+*   [ubc/node-canvas-api](https://github.com/ubc/node-canvas-api) - Access the Canvas API using Node.js. 54 functions (and counting)! Pull requests are welcome and appreciated.
+
+*   [doldsimo/lti-1.3-canvas-lms](https://github.com/doldsimo/lti-1.3-canvas-lms) - lti-1.3-canvas-lms
+
+*   [leemonade/leemons](https://github.com/leemonade/leemons) - 🚀  The Powerful, flexible, user-friendly and open source Learning Experience Platform built entirely in Javascript 😎
+
+*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+
+*   [rghale/webrtc-screen-share](https://github.com/rghale/webrtc-screen-share) - WebRTC based screen sharing
+
+*   [learn-awesome/learndb](https://github.com/learn-awesome/learndb) - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
+
+*   [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
+
+*   [sindresorhus/electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving for Electron apps
+
+*   [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
+
+*   [sameer-ranjan-singh/Sell-My-Course](https://github.com/sameer-ranjan-singh/Sell-My-Course) - MERN stack Create/ Buy online course platform.
+
+*   [mayt/BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT
+
+*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+
+*   [jeremydaly/lambda-warmer](https://github.com/jeremydaly/lambda-warmer) - A module to optimize AWS Lambda function cold starts
+
+*   [hayderux/electron-flutter](https://github.com/hayderux/electron-flutter) - A minimal electron application with flutter & dart
+
+*   [L-U-M-E-N/lumen-desktop](https://github.com/L-U-M-E-N/lumen-desktop) - L.U.M.E.N. is a simple and modulable personal assistant built on Electron.
+
+*   [L-U-M-E-N/lumen-server](https://github.com/L-U-M-E-N/lumen-server) -
+
+*   [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
+
+*   [praveenscience/har-reader](https://github.com/praveenscience/har-reader) - A quick and neat HAR Reader using Node JS.
+
+*   [irustm/figma-to-angular](https://github.com/irustm/figma-to-angular) - Figma to Angular
+
+*   [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
+
+*   [beclamide/mask-controller](https://github.com/beclamide/mask-controller) - NodeJS Bluetooth controller application for the "Shining" LED Mask
+
+*   [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
+
+*   [QuinnBast/Chrome-Price-Tracker](https://github.com/QuinnBast/Chrome-Price-Tracker) - Google Chrome extension that allows you to track products on any website and have their prices checked on demand without having to navigate to the site yourself.
+
+*   [rithwik003/Worthit](https://github.com/rithwik003/Worthit) - A web app using Node.js and Express for tracking Amazon product price history and setting up price drop alerts.
+
+*   [Bipinoli/Online-Price-Tracker-with-Chrome-Extension](https://github.com/Bipinoli/Online-Price-Tracker-with-Chrome-Extension) - Go to e-commerce site, select the price, hit the extension button, that's it. Now that price will be tracked. The system will know where to look for the price in which site and once the price drops to your desired threshold it will should notify you.
+
+*   [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+
+*   [victorporof/Tilt](https://github.com/victorporof/Tilt) - Tilt: a WebGL-based 3D visualization of a Webpage
+
+*   [simov/screenshot-capture](https://github.com/simov/screenshot-capture) - Screenshot Capture / Browser Extension
+
+*   [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
+
+*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+
+*   [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
+
+*   [polonel/trudesk](https://github.com/polonel/trudesk) -  :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
+
+*   [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
+
+*   [chadj/rclone-bisync](https://github.com/chadj/rclone-bisync) - RClone Bi-Directional sync implementation written in Node.js sitting on-top of the rclone command line interface.
+
+*   [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
+
+*   [JohnRbk/lambda-messenger-api](https://github.com/JohnRbk/lambda-messenger-api) - Node.js Chat API using AWS AppSync
+
+*   [gabehollombe-aws/appsync-for-pubsub-demo](https://github.com/gabehollombe-aws/appsync-for-pubsub-demo) - How to use AWS AppSync for simple websocket pub/sub
+
+*   [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
+
+*   [scottcheng/save2drive](https://github.com/scottcheng/save2drive) - A Chrome extension to let you save link, image, audio and video to Google Drive
+
+*   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
+
+*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
+
+*   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
+
+*   [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+
+*   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
+
+*   [Pythagora-io/codebase-chat](https://github.com/Pythagora-io/codebase-chat) -
+
+*   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+
+*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
+
+*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
+
+*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+
+*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
+
+*   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
+
+*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
+
+*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
+
+*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
+
 ## Python
+
+*   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
 
 *   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers.
 
@@ -882,294 +1172,6 @@
 
 *   [aws-samples/s3-select-phonebook-search](https://github.com/aws-samples/s3-select-phonebook-search) - S3 select phonebook is a simple application showcasing the usage of AWS S3 Select
 
-## JavaScript
-
-*   [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
-
-*   [muaz-khan/Ffmpeg.js](https://github.com/muaz-khan/Ffmpeg.js) - Ffmpeg.js demos, both for browsers and node.js
-
-*   [ctdio/electron-transparent-window](https://github.com/ctdio/electron-transparent-window) - An attempt at making overlays work well in electron
-
-*   [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs) - WelsonJS - Build a Windows app on the Windows built-in JavaScript engine
-
-*   [ujjwal-kr/positive-vibes](https://github.com/ujjwal-kr/positive-vibes) - A news app built with full-stack javascript with Parental controls and sentiment analysis
-
-*   [serverless/aws-ai-stack](https://github.com/serverless/aws-ai-stack) - AWS AI Stack – A ready-to-use, full-stack boilerplate project for building serverless AI applications on AWS
-
-*   [victorargento/pm2-deployment](https://github.com/victorargento/pm2-deployment) - Deploy your nodejs or typescript app with PM2
-
-*   [garygrossgarten/github-action-scp](https://github.com/garygrossgarten/github-action-scp) - ⬆️ Copy a folder to a remote server using SSH
-
-*   [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
-
-*   [chrnorm/deployment-status](https://github.com/chrnorm/deployment-status) - GitHub action to create a deployment status update
-
-*   [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action) - GitHub action to create a Deployment
-
-*   [ttessarolo/useDexie](https://github.com/ttessarolo/useDexie) - React Hooks to use Dexie.js IndexDB library with ease
-
-*   [generalui/s3p](https://github.com/generalui/s3p) - list/copy/sync/compare S3 buckets 5x-50x faster than aws-cli
-
-*   [TomMalbran/games](https://github.com/TomMalbran/games) - A collection of HTML5 Game
-
-*   [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
-
-*   [tearoom6/QuickDrive2](https://github.com/tearoom6/QuickDrive2) - Chrome extension to provide quick access to your Google Drive files.
-
-*   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-
-*   [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
-
-*   [pdaddyo/soundbounce](https://github.com/pdaddyo/soundbounce) - Social listening for Spotify - music sounds better together.
-
-*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-
-*   [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
-
-*   [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
-
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-
-*   [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
-
-*   [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-
-*   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-
-*   [google/palette.js](https://github.com/google/palette.js) - Script for generating colour palettes for use with graphs, charts and cartography.
-
-*   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
-
-*   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
-
-*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-
-*   [oauthjs/node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
-
-*   [justadudewhohacks/opencv-express](https://github.com/justadudewhohacks/opencv-express) - Template for using opencv-3.4.1 + opencv-contrib with express.js and docker
-
-*   [nashwaan/xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.
-
-*   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
-
-*   [morungos/node-word-extractor](https://github.com/morungos/node-word-extractor) - Read data from a Word document using node.js
-
-*   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
-
-*   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-
-*   [ScreepsMods/screepsmod-mongo](https://github.com/ScreepsMods/screepsmod-mongo) - Replace LokiJS with MongoDB and Redis
-
-*   [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
-
-*   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-
-*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
-
-*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
-
-*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
-
-*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
-
-*   [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
-
-*   [makiisthenes/TiktokAutoUploader](https://github.com/makiisthenes/TiktokAutoUploader) - Automatically Edits Videos and Uploads to Tiktok with CLI, Requests not Selenium.
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-
-*   [dj0nny/svelte-express-boilerplate](https://github.com/dj0nny/svelte-express-boilerplate) - Boilerplate for developing full stack apps with Express and Svelte.js 📦
-
-*   [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
-
-*   [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-
-*   [loopbackio/strong-soap](https://github.com/loopbackio/strong-soap) - SOAP driver for Node.js (A complete rewrite of node-soap)
-
-*   [keenethics/svelte-notifications](https://github.com/keenethics/svelte-notifications) - Simple and flexible notifications system
-
-*   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-
-*   [immers-space/activitypub-express](https://github.com/immers-space/activitypub-express) - Modular ActivityPub implementation as Express JS middleware to easily add decentralization and federation to Node apps
-
-*   [immers-space/immers](https://github.com/immers-space/immers) - ActivityPub federated social media server for the metaverse
-
-*   [Maxson52/sveltekit-express-google-auth](https://github.com/Maxson52/sveltekit-express-google-auth) - A web-app template featuring a SvelteKit frontend and Express backend, with Passport and Google OAuth 2.0
-
-*   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
-
-*   [zerodytrash/TikTok-Chat-Reader](https://github.com/zerodytrash/TikTok-Chat-Reader) - Website to display chats and gifts in realtime from your TikTok LIVE stream. Demo project for TikTok-Live-Connector library.
-
-*   [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
-
-*   [zinirun/sequelize-redis-caching](https://github.com/zinirun/sequelize-redis-caching) - Redis caching in CRUD works with Sequelize (MySQL)
-
-*   [rfink/sequelize-redis-cache](https://github.com/rfink/sequelize-redis-cache) - Small fluent interface for caching sequelize database query results in redis more easily
-
-*   [mcollina/fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue
-
-*   [teticio/lambda-scraper](https://github.com/teticio/lambda-scraper) - Use AWS Lambda functions as a proxy pool to scrape web pages.
-
-*   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
-
-*   [carcabot/tiktok-signature](https://github.com/carcabot/tiktok-signature) - Generate tiktok signature token using node
-
-*   [ljacobsson/lambda-debug](https://github.com/ljacobsson/lambda-debug) - Library to help debug JS/TS AWS Lambda functions locally
-
-*   [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
-
-*   [RuntimeTools/appmetrics](https://github.com/RuntimeTools/appmetrics) - Node Application Metrics provides a foundational infrastructure for collecting resource and performance monitoring data for Node.js-based applications.
-
-*   [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
-
-*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-
-*   [mylastore/koa-api](https://github.com/mylastore/koa-api) -
-
-*   [hygraph/hygraph-commerce-starter](https://github.com/hygraph/hygraph-commerce-starter) -
-
-*   [seveibar/postgrest-node](https://github.com/seveibar/postgrest-node) - Use postgrest (RESTful Postgres API) as an npm module and in serverless environments
-
-*   [amirrezasalimi/friday](https://github.com/amirrezasalimi/friday) - Friday is a developer assistant can make whole nodejs project for you with unlimited prompts
-
-*   [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
-
-*   [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - We recommend using this amazing boilerplate (our team now use Makerkit instead of SaaStr): https://makerkit.dev/ -- React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Built on top of Adonis JS for the BackEnd and React Starter Kit for the Front-End
-
-*   [nextacular/nextacular](https://github.com/nextacular/nextacular) - An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, and Stripe.
-
-*   [TalAter/SpeechKITT](https://github.com/TalAter/SpeechKITT) - 🗣 A flexible GUI for Speech Recognition
-
-*   [ChalmersLibrary/nodejs-lti-canvas-groups](https://github.com/ChalmersLibrary/nodejs-lti-canvas-groups) - LTI integration for Canvas with different tools for course groups.
-
-*   [js-kyle/nodejs-lti-provider](https://github.com/js-kyle/nodejs-lti-provider) - A minimal LTI provider example using Node.js.
-
-*   [SanDiegoCodeSchool/lti-node-library](https://github.com/SanDiegoCodeSchool/lti-node-library) - Module for building an LTI 1.3 Tool Provider.
-
-*   [Cvmcosta/ltijs](https://github.com/Cvmcosta/ltijs) - Turn your application into a fully integratable LTI 1.3 tool provider.
-
-*   [Cvmcosta/ltijs-demo-server](https://github.com/Cvmcosta/ltijs-demo-server) - Ltijs Demo Application Server
-
-*   [Cvmcosta/ltijs-demo-client](https://github.com/Cvmcosta/ltijs-demo-client) - Ltijs Demo Application Client
-
-*   [Dwitrisha/VidBits](https://github.com/Dwitrisha/VidBits) - TikTok Clone: Video sharing social app
-
-*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
-
-*   [ubc/node-canvas-api](https://github.com/ubc/node-canvas-api) - Access the Canvas API using Node.js. 54 functions (and counting)! Pull requests are welcome and appreciated.
-
-*   [doldsimo/lti-1.3-canvas-lms](https://github.com/doldsimo/lti-1.3-canvas-lms) - lti-1.3-canvas-lms
-
-*   [leemonade/leemons](https://github.com/leemonade/leemons) - 🚀  The Powerful, flexible, user-friendly and open source Learning Experience Platform built entirely in Javascript 😎
-
-*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-
-*   [rghale/webrtc-screen-share](https://github.com/rghale/webrtc-screen-share) - WebRTC based screen sharing
-
-*   [learn-awesome/learndb](https://github.com/learn-awesome/learndb) - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
-
-*   [bytenode/bytenode](https://github.com/bytenode/bytenode) - A minimalist bytecode compiler for Node.js
-
-*   [sindresorhus/electron-serve](https://github.com/sindresorhus/electron-serve) - Static file serving for Electron apps
-
-*   [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-
-*   [sameer-ranjan-singh/Sell-My-Course](https://github.com/sameer-ranjan-singh/Sell-My-Course) - MERN stack Create/ Buy online course platform.
-
-*   [mayt/BrowserGPT](https://github.com/mayt/BrowserGPT) - Command your browser with GPT
-
-*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
-
-*   [jeremydaly/lambda-warmer](https://github.com/jeremydaly/lambda-warmer) - A module to optimize AWS Lambda function cold starts
-
-*   [hayderux/electron-flutter](https://github.com/hayderux/electron-flutter) - A minimal electron application with flutter & dart
-
-*   [L-U-M-E-N/lumen-desktop](https://github.com/L-U-M-E-N/lumen-desktop) - L.U.M.E.N. is a simple and modulable personal assistant built on Electron.
-
-*   [L-U-M-E-N/lumen-server](https://github.com/L-U-M-E-N/lumen-server) -
-
-*   [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
-
-*   [praveenscience/har-reader](https://github.com/praveenscience/har-reader) - A quick and neat HAR Reader using Node JS.
-
-*   [irustm/figma-to-angular](https://github.com/irustm/figma-to-angular) - Figma to Angular
-
-*   [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
-
-*   [beclamide/mask-controller](https://github.com/beclamide/mask-controller) - NodeJS Bluetooth controller application for the "Shining" LED Mask
-
-*   [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
-
-*   [QuinnBast/Chrome-Price-Tracker](https://github.com/QuinnBast/Chrome-Price-Tracker) - Google Chrome extension that allows you to track products on any website and have their prices checked on demand without having to navigate to the site yourself.
-
-*   [rithwik003/Worthit](https://github.com/rithwik003/Worthit) - A web app using Node.js and Express for tracking Amazon product price history and setting up price drop alerts.
-
-*   [Bipinoli/Online-Price-Tracker-with-Chrome-Extension](https://github.com/Bipinoli/Online-Price-Tracker-with-Chrome-Extension) - Go to e-commerce site, select the price, hit the extension button, that's it. Now that price will be tracked. The system will know where to look for the price in which site and once the price drops to your desired threshold it will should notify you.
-
-*   [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
-
-*   [victorporof/Tilt](https://github.com/victorporof/Tilt) - Tilt: a WebGL-based 3D visualization of a Webpage
-
-*   [simov/screenshot-capture](https://github.com/simov/screenshot-capture) - Screenshot Capture / Browser Extension
-
-*   [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
-
-*   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-
-*   [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
-
-*   [polonel/trudesk](https://github.com/polonel/trudesk) -  :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
-
-*   [lukeed/mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
-
-*   [chadj/rclone-bisync](https://github.com/chadj/rclone-bisync) - RClone Bi-Directional sync implementation written in Node.js sitting on-top of the rclone command line interface.
-
-*   [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
-
-*   [JohnRbk/lambda-messenger-api](https://github.com/JohnRbk/lambda-messenger-api) - Node.js Chat API using AWS AppSync
-
-*   [gabehollombe-aws/appsync-for-pubsub-demo](https://github.com/gabehollombe-aws/appsync-for-pubsub-demo) - How to use AWS AppSync for simple websocket pub/sub
-
-*   [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
-
-*   [scottcheng/save2drive](https://github.com/scottcheng/save2drive) - A Chrome extension to let you save link, image, audio and video to Google Drive
-
-*   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
-
-*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
-
-*   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
-
-*   [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-
-*   [sntran/rclone.js](https://github.com/sntran/rclone.js) -
-
-*   [Pythagora-io/codebase-chat](https://github.com/Pythagora-io/codebase-chat) -
-
-*   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-
-*   [C-Nedelcu/talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
-
-*   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
-
-*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
-
-*   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
-
-*   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
-
-*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
-
-*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
-
-*   [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) - Incapsula Payload Generator for Reese84 and \_\_utmvc
-
-*   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
-
 ## Perl
 
 *   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
@@ -1319,8 +1321,6 @@
 *   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
 
 *   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
-
-*   [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
 
 ## Svelte
 
