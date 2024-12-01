@@ -40,6 +40,8 @@
 
 ## JavaScript
 
+*   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+
 *   [airyland/logo.surf](https://github.com/airyland/logo.surf) - Free Text-to-Logo-and-favicon Generator
 
 *   [SashenJayathilaka/TIK-TOK-Clone](https://github.com/SashenJayathilaka/TIK-TOK-Clone) - Full Stack TikTok Clone with REACT.JS! (Next.js, Tailwind CSS, Video Uploading, Google  Authentication, Tik-Tok Profile)
@@ -1465,8 +1467,6 @@
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-
-*   [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 
 ## Kotlin
 
