@@ -40,6 +40,8 @@
 
 ## JavaScript
 
+*   [facundofernandez/videojs-dvr](https://github.com/facundofernandez/videojs-dvr) -
+
 *   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 
 *   [airyland/logo.surf](https://github.com/airyland/logo.surf) - Free Text-to-Logo-and-favicon Generator
@@ -1465,8 +1467,6 @@
 *   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 
 ## Kotlin
 
