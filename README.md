@@ -40,7 +40,7 @@
 
 ## Python
 
-*   [Azzedde/paper\_to\_podcast](https://github.com/Azzedde/paper_to_podcast) - A very quick and intuitive project that transforms any research paper into an engaging discussion between 3 persons to make you listen and have intuitive thoughts about the paper instead of using a paper reader. This is the perfect project for podcast lovers like me.
+*   [Azzedde/paper\_to\_podcast](https://github.com/Azzedde/paper_to_podcast) - A very quick project that transforms research papers into engaging three-person discussions, offering an intuitive and thought-provoking listening experience. Perfect for podcast enthusiasts seeking a fresh way to explore academic content.
 
 *   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
 
@@ -1138,7 +1138,7 @@
 
 *   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 
 *   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 
