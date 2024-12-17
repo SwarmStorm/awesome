@@ -40,6 +40,8 @@
 
 ## Go
 
+*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+
 *   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 
 *   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
@@ -397,8 +399,6 @@
 *   [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
 
 *   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
-
-*   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
 
 ## TypeScript
 
