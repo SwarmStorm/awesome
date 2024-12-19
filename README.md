@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-*   [Go](#go)
+*   [Vue](#vue)
 *   [JavaScript](#javascript)
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -34,83 +35,24 @@
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
-*   [Vue](#vue)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
-## Go
+## Vue
 
-*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+*   [pbkompasz/webcams](https://github.com/pbkompasz/webcams) - Store, find and follow public RTSP streams
 
-*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
 
-*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+*   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
 
-*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
-
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-
-*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
-
-*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
-
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-
-*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-
-*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-
-*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
-
-*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-
-*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
-
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
-
-*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
-
-*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
-
-*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
-
-*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
-
-*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
-
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-
-*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
-
-*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-
-*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
-
-*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
-
-*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
-
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-
-*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## JavaScript
+
+*   [vladmandic/stream-rtsp](https://github.com/vladmandic/stream-rtsp) - Transcode & Play RTSP Video Streams in Browser
 
 *   [Lean-98/Calendar\_MERN-Backend](https://github.com/Lean-98/Calendar_MERN-Backend) - Calendar-API-Backend is a backend built with Node.js, Express and MongoDB, following an architecture based on MCV pattern.
 
@@ -402,6 +344,78 @@
 
 *   [RealSput/Wenode](https://github.com/RealSput/Wenode) - WebContainers, except it's a million times easier to use
 
+## Go
+
+*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+
+*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+
+*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+
+*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
+
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
+*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
+
+*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
+
+*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+
+*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
+
+*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+
+*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+
+*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+
+*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
+
+*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
+
+*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
+
+*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+
+*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+
+*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
+
+*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
+
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+
+*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+
 ## TypeScript
 
 *   [romabulani/calendar-events-backend](https://github.com/romabulani/calendar-events-backend) -
@@ -689,8 +703,6 @@
 *   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
 
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-
-*   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
 
 ## Rust
 
@@ -1487,18 +1499,6 @@
 *   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 
 *   [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
-
-*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-
-## Vue
-
-*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
-
-*   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
-
-*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## Elixir
 
