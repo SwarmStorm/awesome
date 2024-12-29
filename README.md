@@ -39,6 +39,8 @@
 
 ## JavaScript
 
+*   [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
+
 *   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 
 *   [kanongil/node-hlsrecord](https://github.com/kanongil/node-hlsrecord) - Record HTTP Live Streaming (HLS) media streams.
@@ -334,8 +336,6 @@
 *   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
 *   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Python
 
