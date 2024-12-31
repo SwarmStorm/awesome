@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -20,7 +21,6 @@
 *   [Ruby](#ruby)
 *   [Perl](#perl)
 *   [C++](#c-1)
-*   [HTML](#html)
 *   [Pug](#pug)
 *   [Blade](#blade)
 *   [TeX](#tex)
@@ -36,6 +36,36 @@
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
 *   [Elixir](#elixir)
+
+## HTML
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+
+*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
+
+*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+
+*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
+
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+
+*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
+
+*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
+
+*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
+
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+
+*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 ## JavaScript
 
@@ -602,8 +632,6 @@
 *   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 
 *   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 ## Python
 
@@ -1382,34 +1410,6 @@
 *   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 *   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
-
-## HTML
-
-*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
-
-*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-
-*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
-
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-
-*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
-
-*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
-
-*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
-
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-
-*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 
 ## Pug
 
