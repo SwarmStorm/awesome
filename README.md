@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [Pug](#pug)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [HCL](#hcl)
 *   [D2](#d2)
 *   [Python](#python)
@@ -38,6 +38,66 @@
 *   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## Shell
+
+*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+
+*   [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo) - Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
+
+*   [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
+
+*   [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
+
+*   [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
+
+*   [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools) - DevOps Golang tools
+
+*   [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
+
+*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+
+*   [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
+*   [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
+
+*   [fifsky/ssh-action](https://github.com/fifsky/ssh-action) - 🖥 github ssh action
+
+*   [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+
+*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+
+*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
+
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+
+*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+
+*   [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
+
+*   [zhuchuangang/k8s-install-scripts](https://github.com/zhuchuangang/k8s-install-scripts) - kubernetes install scripts,that includes etcd、kubernetes、flannel、docker,and there are many yaml files here,for example the kubernetes addones,redis,rabbitmq,mongo,traefik,ingress-nginx,cpehfs and so on.
+
+*   [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
+
+*   [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose](https://github.com/damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose) - If You want to build a website with Moodle "moodle" at short time; install full stack nginx Moodle with Docker Compose. Plus, manage docker containers with Portainer.
+
+*   [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
+
+*   [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -
+
+*   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
+
+*   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
+
+*   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
 
 ## miscellaneous
 
@@ -691,64 +751,6 @@
 
 *   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 
-## Shell
-
-*   [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo) - Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
-
-*   [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
-
-*   [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
-
-*   [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
-
-*   [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools) - DevOps Golang tools
-
-*   [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
-
-*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
-
-*   [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
-
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-
-*   [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
-
-*   [fifsky/ssh-action](https://github.com/fifsky/ssh-action) - 🖥 github ssh action
-
-*   [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-
-*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
-
-*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
-
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-
-*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-
-*   [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
-
-*   [zhuchuangang/k8s-install-scripts](https://github.com/zhuchuangang/k8s-install-scripts) - kubernetes install scripts,that includes etcd、kubernetes、flannel、docker,and there are many yaml files here,for example the kubernetes addones,redis,rabbitmq,mongo,traefik,ingress-nginx,cpehfs and so on.
-
-*   [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
-
-*   [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose](https://github.com/damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose) - If You want to build a website with Moodle "moodle" at short time; install full stack nginx Moodle with Docker Compose. Plus, manage docker containers with Portainer.
-
-*   [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
-
-*   [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -
-
-*   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
-
-*   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
-
-*   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
-
 ## HCL
 
 *   [HariSekhon/Terraform](https://github.com/HariSekhon/Terraform) - Terraform HCL code for AWS / GCP / Azure / GitHub management
@@ -1054,8 +1056,6 @@
 *   [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS
 
 *   [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-
-*   [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
 
 ## C\#
 
