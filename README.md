@@ -705,7 +705,7 @@
 
 *   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 
-*   [exa-labs/exa-writing-assist](https://github.com/exa-labs/exa-writing-assist) -
+*   [exa-labs/exa-writing-assist](https://github.com/exa-labs/exa-writing-assist) - Writing and Citation Assistant Tool
 
 *   [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 
