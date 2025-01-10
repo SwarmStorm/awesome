@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Python](#python)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -12,7 +13,6 @@
 *   [Pug](#pug)
 *   [HCL](#hcl)
 *   [D2](#d2)
-*   [C#](#c)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Rust](#rust)
@@ -38,6 +38,26 @@
 *   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C\#
+
+*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
+
+*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
+
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+
+*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
+
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
+
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Python
 
@@ -1057,24 +1077,6 @@
 
 *   [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
-## C\#
-
-*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
-
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-
-*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
-
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-
 ## JavaScript
 
 *   [pbojinov/arrow-js](https://github.com/pbojinov/arrow-js) - A tiny library for displaying an arrow pointing to the browser download location
@@ -1630,8 +1632,6 @@
 *   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
 
 *   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## Blade
 
