@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
-*   [Python](#python)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
@@ -15,7 +16,6 @@
 *   [Pug](#pug)
 *   [HCL](#hcl)
 *   [D2](#d2)
-*   [HTML](#html)
 *   [Rust](#rust)
 *   [Java](#java)
 *   [PHP](#php)
@@ -39,229 +39,295 @@
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
-## miscellaneous
+## Python
 
-*   [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
+*   [darsan-in/SEO-KW-Filter](https://github.com/darsan-in/SEO-KW-Filter) - This project is a powerful tool for SEO professionals to filter and retain only the top-performing keywords. It allows you to set a threshold for the number of top keywords and outputs the results in CSV, Excel, or text format. This filtered keyword list can be used to generate high-quality content with LLM models, enhancing SEO efforts.
 
-*   [jessesquires/gh-workflows](https://github.com/jessesquires/gh-workflows) - A collection of useful generic GitHub Actions workflows
+*   [alonlavian/RAGent](https://github.com/alonlavian/RAGent) - When RAG and agents fall in love
 
-*   [chainguard-dev/actions](https://github.com/chainguard-dev/actions) - A collection of reusable Github Actions workflows.
+*   [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.
 
-*   [Azure/actions-workflow-templates](https://github.com/Azure/actions-workflow-templates) - GitHub Actions workflow templates used by the Azure Portal, CLI, and VS Code.
+*   [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 
-*   [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
+*   [Michele0303/tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder) - 🎥✨ A TikTok live streaming recorder tool written in Python. Capture and relive your favorite TikTok moments effortlessly. 🎥✨
 
-*   [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation Software and Tools
+*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms' internal APIs.
 
-*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
+*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 
-*   [tungbq/awesome-workflow](https://github.com/tungbq/awesome-workflow) - :octocat: Awesome lists about GitHub workflows to automate your development workflow
+*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
-*   [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of awesome AI tools
+*   [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 
-*   [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
+*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
-*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
+*   [linsomniac/spotify\_to\_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 
-*   [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+*   [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 
-*   [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
+*   [Azzedde/paper\_to\_podcast](https://github.com/Azzedde/paper_to_podcast) - A very quick project that transforms research papers into engaging three-person discussions, offering an intuitive and thought-provoking listening experience. Perfect for podcast enthusiasts seeking a fresh way to explore academic content.
 
-*   [TonnyL/Awesome\_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
+*   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
 
-*   [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers.
 
-*   [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+*   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
-*   [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
+*   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 
-*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+*   [LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
 
-*   [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+*   [dustin-cowles/chatbot-lti](https://github.com/dustin-cowles/chatbot-lti) - This is a simple AI-powered chatbot that allows users to ask questions relating to LMS content.
 
-*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+*   [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
 
-*   [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+*   [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -
 
-*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+*   [akshatvg/Spam-Slayer](https://github.com/akshatvg/Spam-Slayer) - Spam Slayer is a web app used to detect deceptions from Amazon products' reviews. Users can copy a link to the product and paste directly paste it to my page. Using my trained deep learning model, Spam Slayer will distinguish between true/fake reviews and show them an adjusted rating without fake reviews.
 
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+*   [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 
-*   [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
-*   [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+*   [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 
-*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+*   [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
 
-*   [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
+*   [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
 
-*   [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+*   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 
-*   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+*   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 
-*   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
-*   [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
+*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 
-*   [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
+*   [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
 
-*   [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
+*   [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
 
-*   [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
+*   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 
-*   [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
+*   [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 
-*   [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
+*   [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 
-*   [Windows-Works/zebar-cross-platform-taskbars-desktop-widgets-and-popups](https://github.com/Windows-Works/zebar-cross-platform-taskbars-desktop-widgets-and-popups) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 
-*   [Qt-Widgets/WtDesigner-WYSIWYG](https://github.com/Qt-Widgets/WtDesigner-WYSIWYG) -
+*   [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 
-*   [frutik/awesome-e-commerce](https://github.com/frutik/awesome-e-commerce) -
+*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 
-*   [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
+*   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 
-*   [mansueli/Supa-Backup](https://github.com/mansueli/Supa-Backup) - Github Action for Supabase Backups
+*   [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 
-*   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
-*   [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
+*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 
-*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
 
-*   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
-*   [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
-*   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-*   [AlexChesser/recruiter-autoresponse](https://github.com/AlexChesser/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 
-*   [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AGI's query engine - Platform for building AI that can learn and answer questions over federated data.
 
-*   [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
+*   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
-*   [kpalang/mirth-plugin-guide](https://github.com/kpalang/mirth-plugin-guide) - A plugin guide for NextGen Connect
+*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
 
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+*   [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
-*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
 
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [HA6Bots/TikTok-Compilation-Video-Generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator) - A system of bots that collects clips automatically via custom made filters, lets you easily browse these clips, and puts them together into a compilation video ready to be uploaded straight to any social media platform. Full VPS support is provided, along with an accounts system so multiple users can use the bot at once. This bot is split up into three separate programs. The server. The client. The video generator. These programs perform different functions that when combined creates a very powerful system for auto generating compilation videos.
 
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+*   [BioRat1/ReBomb2](https://github.com/BioRat1/ReBomb2) - Newest version of the ReBomb: TikTok Mass Report Bot
 
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [alew3/faceit\_live](https://github.com/alew3/faceit_live) - Swap your face in realtime to someone's else.
 
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
 
-*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
-*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 
-*   [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+*   [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 
-*   [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+*   [ahmetozlu/tensorflow\_object\_counting\_api](https://github.com/ahmetozlu/tensorflow_object_counting_api) - 🚀 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems!
 
-*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+*   [line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) - The 3rd Place Solution of the Meta AI Video Similarity Challenge : Descriptor Track and Matching Track.
 
-*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+*   [lyakaap/ISC21-Descriptor-Track-1st](https://github.com/lyakaap/ISC21-Descriptor-Track-1st) - The 1st Place Solution of the Facebook AI Image Similarity Challenge (ISC21) : Descriptor Track.
 
-*   [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+*   [qrzeller/OpenCV-Video-Comparison](https://github.com/qrzeller/OpenCV-Video-Comparison) - In order to compare multiple video, scene etc... Compute similarity, and say if video are of the same origin even if modified, altered, scene cutted or added and even content modification.
 
-*   [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+*   [Sadiqush/RVSearch](https://github.com/Sadiqush/RVSearch) - Tool to reverse search videos on YouTube based on frame similarities found
 
-*   [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
 
-*   [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
+*   [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
 
-*   [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
+*   [ustb-zhangmin/neural-hash](https://github.com/ustb-zhangmin/neural-hash) - some test about achieve hash function by neural net
 
-*   [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+*   [prafulladiwesh/simskip](https://github.com/prafulladiwesh/simskip) - Deep Hashing for High Dimensional similarity search on embedded data using ImageNet and Glove Dataset using Deep Neural Network algorithms.
 
-*   [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
+*   [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 
-*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
-*   [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
+*   [cowboy-bebug/app-store-scraper](https://github.com/cowboy-bebug/app-store-scraper) - Single API ☝ App Store Review Scraper 🧹
 
-*   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
-*   [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -
+*   [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
 
-*   [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
+*   [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 
-*   [scollovati/awesome-lti](https://github.com/scollovati/awesome-lti) - List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.
+*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+*   [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+*   [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 
-*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+*   [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 
-*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
-*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [ucfopen/lti-template-flask](https://github.com/ucfopen/lti-template-flask) - LTI template written in Python using the Flask framework.  Quickly create a new application that can be launched through your Learning Management System using the LTI protocol.  Uses standard configurable Key & Secret to launch.
 
-*   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 
-*   [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+*   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 
-*   [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+*   [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
-*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+*   [tendenci/tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
 
-*   [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+*   [makeskinner/elk\_monitoring](https://github.com/makeskinner/elk_monitoring) - Monitoring solution for Make envs using the ELK stack
 
-*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+*   [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 
-*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+*   [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
 
-*   [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
+*   [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
 
-*   [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+*   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 
-*   [notrab/awesome-headless-commerce](https://github.com/notrab/awesome-headless-commerce) - A community curated list of headless commerce APIs, products, and services. A heads-up for modern store builders.
+*   [fbanespo1/figma2angular](https://github.com/fbanespo1/figma2angular) - Figma to Angular converter
 
-*   [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
+*   [brandonasuncion/Reverse-Engineering-Bluetooth-Protocols](https://github.com/brandonasuncion/Reverse-Engineering-Bluetooth-Protocols) - Intercepting Bluetooth device communication and simulating packet responses of an iPhone from a Raspberry Pi 3
 
-*   [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
+*   [shawnrancatore/shining-mask](https://github.com/shawnrancatore/shining-mask) - Project that allows you to easily control the LED Mask with any CircuitPython device that has bluetooth and to gesture using a Wii Nunchuck.
 
-*   [MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod) -
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-*   [kasami/kasamibot](https://github.com/kasami/kasamibot) - Autonomous bot for the programmer RTS-game Screeps
+*   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 
-*   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+*   [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 
-*   [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
+*   [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 
-*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
+*   [bmartin5692/bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots.
 
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 
-*   [gsans/aws-amplify-workshop-angular](https://github.com/gsans/aws-amplify-workshop-angular) - Building Full Stack GraphQL Applications with AWS Amplify and Angular
+*   [Synthintel0/MyGirlGPT](https://github.com/Synthintel0/MyGirlGPT) - MyGirl GPT is a project to build your own AI girlfriend Running on Your Personal Server with local LLM.
 
-*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+*   [SharonBrizinov/slack-sounds](https://github.com/SharonBrizinov/slack-sounds) - Customize your Slack sound notifications
 
-*   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+*   [greasysock/bnbCalendar](https://github.com/greasysock/bnbCalendar) - Airbnb and VRBO ical sync for teamwork
+
+*   [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator) - This is a generator for getting a session that passes all the checks from YouTube side
+
+*   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+
+*   [feder-cr/Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+
+*   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
+
+*   [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
+
+*   [dtflare/GPTparser](https://github.com/dtflare/GPTparser) - Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.
+
+*   [trancethehuman/entities-extraction-web-scraper](https://github.com/trancethehuman/entities-extraction-web-scraper) - A web scraper that uses OpenAI Functions for selective scraping.
+
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+
+*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
+
+*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+
+*   [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
+
+*   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+*   [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
+
+*   [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+
+*   [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
+
+*   [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds
+
+*   [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+
+*   [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
+
+*   [graphicalmethods/serverless-llamas](https://github.com/graphicalmethods/serverless-llamas) - Serverless llama.cpp and Ollama
+
+*   [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
+
+*   [baileytec-labs/llama-on-lambda](https://github.com/baileytec-labs/llama-on-lambda) - Deploy llama.cpp compatible Generative AI LLMs on AWS Lambda!
+
+*   [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+
+*   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+
+*   [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
+
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+
+*   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+
+*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
+
+*   [maudoin/ollama-voice](https://github.com/maudoin/ollama-voice) - plug whisper audio transcription to a local ollama server and ouput tts audio responses
+
+*   [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS
 
 ## JavaScript
+
+*   [ciokaneala/long-tail-npm](https://github.com/ciokaneala/long-tail-npm) - NPM Package for retrieving long tail keyword suggestions. Uses a REST API for retrieving them which is highly scalable and support thousands of requests.
 
 *   [lycoris11/hirewise-ai](https://github.com/lycoris11/hirewise-ai) - AI Web App to streamline Recruiting. Uses AI to match the best applicant for the role based on their resume.
 
@@ -583,6 +649,266 @@
 
 *   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
 
+## HTML
+
+*   [onvif/specs](https://github.com/onvif/specs) - ONVIF Network Interface Specifications
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+
+*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
+
+*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+
+*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
+
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+
+*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
+
+*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
+
+*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
+
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+
+*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+
+*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+
+## miscellaneous
+
+*   [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies
+
+*   [jessesquires/gh-workflows](https://github.com/jessesquires/gh-workflows) - A collection of useful generic GitHub Actions workflows
+
+*   [chainguard-dev/actions](https://github.com/chainguard-dev/actions) - A collection of reusable Github Actions workflows.
+
+*   [Azure/actions-workflow-templates](https://github.com/Azure/actions-workflow-templates) - GitHub Actions workflow templates used by the Azure Portal, CLI, and VS Code.
+
+*   [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
+
+*   [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation Software and Tools
+
+*   [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
+
+*   [tungbq/awesome-workflow](https://github.com/tungbq/awesome-workflow) - :octocat: Awesome lists about GitHub workflows to automate your development workflow
+
+*   [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) - A curated list of awesome AI tools
+
+*   [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
+
+*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
+
+*   [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+
+*   [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
+
+*   [TonnyL/Awesome\_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
+
+*   [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+
+*   [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+
+*   [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) - A curated list of deep learning resources for computer vision
+
+*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+
+*   [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+
+*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+
+*   [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
+
+*   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
+
+*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+
+*   [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+
+*   [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+
+*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+
+*   [shenwei356/awesome](https://github.com/shenwei356/awesome) - Awesome resources on Bioinformatics, data science, machine learning, programming language (Python, Golang, R, Perl) and miscellaneous stuff.
+
+*   [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+
+*   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+
+*   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+*   [kakoni/awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
+
+*   [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
+
+*   [proyecto26/awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games  🎮
+
+*   [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
+
+*   [travis-ci/travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
+
+*   [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) - Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
+
+*   [Windows-Works/zebar-cross-platform-taskbars-desktop-widgets-and-popups](https://github.com/Windows-Works/zebar-cross-platform-taskbars-desktop-widgets-and-popups) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+
+*   [Qt-Widgets/WtDesigner-WYSIWYG](https://github.com/Qt-Widgets/WtDesigner-WYSIWYG) -
+
+*   [frutik/awesome-e-commerce](https://github.com/frutik/awesome-e-commerce) -
+
+*   [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
+
+*   [mansueli/Supa-Backup](https://github.com/mansueli/Supa-Backup) - Github Action for Supabase Backups
+
+*   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+
+*   [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
+
+*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+
+*   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
+
+*   [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
+
+*   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
+
+*   [AlexChesser/recruiter-autoresponse](https://github.com/AlexChesser/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
+
+*   [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
+
+*   [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
+
+*   [kpalang/mirth-plugin-guide](https://github.com/kpalang/mirth-plugin-guide) - A plugin guide for NextGen Connect
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
+
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+
+*   [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+
+*   [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+*   [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+
+*   [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -   A curated list of awesome applications, softwares, tools and shiny things for macOS.
+
+*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+
+*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+*   [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+
+*   [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
+
+*   [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+
+*   [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
+
+*   [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
+
+*   [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+
+*   [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper
+
+*   [fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+
+*   [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers
+
+*   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
+
+*   [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) -
+
+*   [arcataroger/awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
+
+*   [scollovati/awesome-lti](https://github.com/scollovati/awesome-lti) - List of awesome resources for learning and developing tools according to the Learning Tools Interoperability (LTI ©) standard created by the 1EdTech Consortium.
+
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+*   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+
+*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+
+*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+
+*   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+
+*   [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+
+*   [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+
+*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+
+*   [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
+
+*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+
+*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+
+*   [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
+
+*   [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+
+*   [notrab/awesome-headless-commerce](https://github.com/notrab/awesome-headless-commerce) - A community curated list of headless commerce APIs, products, and services. A heads-up for modern store builders.
+
+*   [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
+
+*   [zingchart/awesome-charting](https://github.com/zingchart/awesome-charting) - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries
+
+*   [MakeYourPet/hexapod](https://github.com/MakeYourPet/hexapod) -
+
+*   [kasami/kasamibot](https://github.com/kasami/kasamibot) - Autonomous bot for the programmer RTS-game Screeps
+
+*   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+
+*   [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
+
+*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [gsans/aws-amplify-workshop-angular](https://github.com/gsans/aws-amplify-workshop-angular) - Building Full Stack GraphQL Applications with AWS Amplify and Angular
+
+*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+
+*   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+
 ## TypeScript
 
 *   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -883,12 +1209,6 @@
 
 *   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
 
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
-
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
 ## Jupyter Notebook
 
 *   [mm2260/data-mining-and-AI](https://github.com/mm2260/data-mining-and-AI) - A collection of data mining and AI related project work
@@ -940,290 +1260,6 @@
 *   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
 
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-
-## Python
-
-*   [alonlavian/RAGent](https://github.com/alonlavian/RAGent) - When RAG and agents fall in love
-
-*   [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.
-
-*   [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
-
-*   [Michele0303/tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder) - 🎥✨ A TikTok live streaming recorder tool written in Python. Capture and relive your favorite TikTok moments effortlessly. 🎥✨
-
-*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms' internal APIs.
-
-*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-
-*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-
-*   [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-
-*   [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-
-*   [linsomniac/spotify\_to\_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
-
-*   [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-
-*   [Azzedde/paper\_to\_podcast](https://github.com/Azzedde/paper_to_podcast) - A very quick project that transforms research papers into engaging three-person discussions, offering an intuitive and thought-provoking listening experience. Perfect for podcast enthusiasts seeking a fresh way to explore academic content.
-
-*   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
-
-*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers.
-
-*   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
-
-*   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
-
-*   [LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
-
-*   [dustin-cowles/chatbot-lti](https://github.com/dustin-cowles/chatbot-lti) - This is a simple AI-powered chatbot that allows users to ask questions relating to LMS content.
-
-*   [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
-
-*   [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -
-
-*   [akshatvg/Spam-Slayer](https://github.com/akshatvg/Spam-Slayer) - Spam Slayer is a web app used to detect deceptions from Amazon products' reviews. Users can copy a link to the product and paste directly paste it to my page. Using my trained deep learning model, Spam Slayer will distinguish between true/fake reviews and show them an adjusted rating without fake reviews.
-
-*   [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
-
-*   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-
-*   [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
-
-*   [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
-
-*   [linode/docs](https://github.com/linode/docs) - Linode guides and tutorials.
-
-*   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-
-*   [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
-
-*   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-
-*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-
-*   [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-
-*   [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
-
-*   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
-
-*   [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
-
-*   [clips/pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
-
-*   [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-
-*   [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-
-*   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-
-*   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-
-*   [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
-
-*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-
-*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
-
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
-
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AGI's query engine - Platform for building AI that can learn and answer questions over federated data.
-
-*   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
-
-*   [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-
-*   [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-
-*   [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
-
-*   [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-
-*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-
-*   [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -
-
-*   [HA6Bots/TikTok-Compilation-Video-Generator](https://github.com/HA6Bots/TikTok-Compilation-Video-Generator) - A system of bots that collects clips automatically via custom made filters, lets you easily browse these clips, and puts them together into a compilation video ready to be uploaded straight to any social media platform. Full VPS support is provided, along with an accounts system so multiple users can use the bot at once. This bot is split up into three separate programs. The server. The client. The video generator. These programs perform different functions that when combined creates a very powerful system for auto generating compilation videos.
-
-*   [BioRat1/ReBomb2](https://github.com/BioRat1/ReBomb2) - Newest version of the ReBomb: TikTok Mass Report Bot
-
-*   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-
-*   [alew3/faceit\_live](https://github.com/alew3/faceit_live) - Swap your face in realtime to someone's else.
-
-*   [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
-
-*   [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-
-*   [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-
-*   [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
-
-*   [ahmetozlu/tensorflow\_object\_counting\_api](https://github.com/ahmetozlu/tensorflow_object_counting_api) - 🚀 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems!
-
-*   [line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution](https://github.com/line/Meta-AI-Video-Similarity-Challenge-3rd-Place-Solution) - The 3rd Place Solution of the Meta AI Video Similarity Challenge : Descriptor Track and Matching Track.
-
-*   [lyakaap/ISC21-Descriptor-Track-1st](https://github.com/lyakaap/ISC21-Descriptor-Track-1st) - The 1st Place Solution of the Facebook AI Image Similarity Challenge (ISC21) : Descriptor Track.
-
-*   [qrzeller/OpenCV-Video-Comparison](https://github.com/qrzeller/OpenCV-Video-Comparison) - In order to compare multiple video, scene etc... Compute similarity, and say if video are of the same origin even if modified, altered, scene cutted or added and even content modification.
-
-*   [Sadiqush/RVSearch](https://github.com/Sadiqush/RVSearch) - Tool to reverse search videos on YouTube based on frame similarities found
-
-*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Unified embedding generation and search engine. Also available on cloud - cloud.marqo.ai
-
-*   [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX.
-
-*   [ustb-zhangmin/neural-hash](https://github.com/ustb-zhangmin/neural-hash) - some test about achieve hash function by neural net
-
-*   [prafulladiwesh/simskip](https://github.com/prafulladiwesh/simskip) - Deep Hashing for High Dimensional similarity search on embedded data using ImageNet and Glove Dataset using Deep Neural Network algorithms.
-
-*   [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
-
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
-
-*   [cowboy-bebug/app-store-scraper](https://github.com/cowboy-bebug/app-store-scraper) - Single API ☝ App Store Review Scraper 🧹
-
-*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-
-*   [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
-
-*   [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
-
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-
-*   [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
-
-*   [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
-
-*   [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-
-*   [ucfopen/lti-template-flask](https://github.com/ucfopen/lti-template-flask) - LTI template written in Python using the Flask framework.  Quickly create a new application that can be launched through your Learning Management System using the LTI protocol.  Uses standard configurable Key & Secret to launch.
-
-*   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-
-*   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
-
-*   [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-
-*   [tendenci/tendenci](https://github.com/tendenci/tendenci) - Tendenci - The Open Source Association Management System (AMS)
-
-*   [makeskinner/elk\_monitoring](https://github.com/makeskinner/elk_monitoring) - Monitoring solution for Make envs using the ELK stack
-
-*   [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
-
-*   [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
-
-*   [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
-
-*   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
-
-*   [fbanespo1/figma2angular](https://github.com/fbanespo1/figma2angular) - Figma to Angular converter
-
-*   [brandonasuncion/Reverse-Engineering-Bluetooth-Protocols](https://github.com/brandonasuncion/Reverse-Engineering-Bluetooth-Protocols) - Intercepting Bluetooth device communication and simulating packet responses of an iPhone from a Raspberry Pi 3
-
-*   [shawnrancatore/shining-mask](https://github.com/shawnrancatore/shining-mask) - Project that allows you to easily control the LED Mask with any CircuitPython device that has bluetooth and to gesture using a Wii Nunchuck.
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
-
-*   [databricks/dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
-
-*   [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-
-*   [bmartin5692/bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots.
-
-*   [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
-
-*   [Synthintel0/MyGirlGPT](https://github.com/Synthintel0/MyGirlGPT) - MyGirl GPT is a project to build your own AI girlfriend Running on Your Personal Server with local LLM.
-
-*   [SharonBrizinov/slack-sounds](https://github.com/SharonBrizinov/slack-sounds) - Customize your Slack sound notifications
-
-*   [greasysock/bnbCalendar](https://github.com/greasysock/bnbCalendar) - Airbnb and VRBO ical sync for teamwork
-
-*   [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator) - This is a generator for getting a session that passes all the checks from YouTube side
-
-*   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-
-*   [feder-cr/Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
-
-*   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
-
-*   [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
-
-*   [dtflare/GPTparser](https://github.com/dtflare/GPTparser) - Use GPTparser with your OpenAI API to scrape & parse files into structured JSON files.
-
-*   [trancethehuman/entities-extraction-web-scraper](https://github.com/trancethehuman/entities-extraction-web-scraper) - A web scraper that uses OpenAI Functions for selective scraping.
-
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-
-*   [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
-
-*   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-
-*   [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
-
-*   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
-
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-*   [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
-
-*   [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-
-*   [jina-ai/dev-gpt](https://github.com/jina-ai/dev-gpt) - Your Virtual Development Team
-
-*   [lancedb/yoloexplorer](https://github.com/lancedb/yoloexplorer) - YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds
-
-*   [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-
-*   [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
-
-*   [graphicalmethods/serverless-llamas](https://github.com/graphicalmethods/serverless-llamas) - Serverless llama.cpp and Ollama
-
-*   [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.
-
-*   [baileytec-labs/llama-on-lambda](https://github.com/baileytec-labs/llama-on-lambda) - Deploy llama.cpp compatible Generative AI LLMs on AWS Lambda!
-
-*   [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
-
-*   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-
-*   [apeatling/ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - Mac compatible Ollama Voice
-
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-
-*   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-
-*   [maudoin/ollama-voice](https://github.com/maudoin/ollama-voice) - plug whisper audio transcription to a local ollama server and ouput tts audio responses
-
-*   [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS
 
 ## Go
 
@@ -1428,42 +1464,6 @@
 ## D2
 
 *   [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
-
-## HTML
-
-*   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-
-*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
-
-*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-
-*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
-
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-
-*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
-
-*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
-
-*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
-
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-
-*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
-
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 
 ## Rust
 
