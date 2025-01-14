@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [SCSS](#scss)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [HTML](#html)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [C#](#c)
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
@@ -39,93 +39,313 @@
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
-## SCSS
+## TypeScript
 
-*   [juanrgon/slack-emoji-uploader](https://github.com/juanrgon/slack-emoji-uploader) - Chrome Extension for Slack Emojis :sunglasses:
+*   [dsmiller95/custom-emoji-server](https://github.com/dsmiller95/custom-emoji-server) - a server to store and manage a set of custom emoji
 
-## Go
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 
-*   [sgreben/slack-emoji-upload](https://github.com/sgreben/slack-emoji-upload) - Slack emoji uploader, CLI. single binary, no dependencies. linux, osx, windows.
+*   [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 
-*   [sausheong/waldo](https://github.com/sausheong/waldo) - Waldo is a command-line AI assistant that wraps around local LLMs, Google's Gemini models and OpenAI's GPT models
+*   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 
-*   [mchmarny/s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance
+*   [ExpediaGroup/github-helpers](https://github.com/ExpediaGroup/github-helpers) - A collection of Github Actions that simplify and standardize common CI/CD workflow tasks.
 
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 
-*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+*   [tmac12/supabase-angular](https://github.com/tmac12/supabase-angular) -
 
-*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+*   [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 
-*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+*   [romabulani/calendar-events-backend](https://github.com/romabulani/calendar-events-backend) -
 
-*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+*   [isaackogan/YouTubeLive](https://github.com/isaackogan/YouTubeLive) - Fully-featured YouTube LIVE scraper
 
-*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+*   [danawoodman/sveltekit-auth-example](https://github.com/danawoodman/sveltekit-auth-example) - An example SvelteKit app implementing a simple authentication system.
 
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
-*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
+*   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [exa-labs/exa-writing-assist](https://github.com/exa-labs/exa-writing-assist) - Writing and Citation Assistant Tool
 
-*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
+*   [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 
-*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+*   [aklinker1/publish-browser-extension](https://github.com/aklinker1/publish-browser-extension) - CI tool to easily publish browser extensions
 
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 
-*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
+*   [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs) - Official documentation for the OneDrive API
 
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 
-*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+*   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 
-*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+*   [livekit/agents-js](https://github.com/livekit/agents-js) - Build realtime multimodal AI agents with Node.js
 
-*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
+*   [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 
-*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+*   [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 
-*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
+*   [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 
-*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+*   [ngneat/nx-serverless](https://github.com/ngneat/nx-serverless) - 🚀 The Ultimate Monorepo Starter for Node.js Serverless Applications
 
-*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
+*   [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 
-*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
-*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 
-*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
+*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 
-*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
+*   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 
-*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+*   [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 
-*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 
-*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
+*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
-*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
+*   [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
-*   [raxod502/upm](https://github.com/raxod502/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
+*   [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+
+*   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+
+*   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
+
+*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+
+*   [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
+
+*   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+
+*   [keymetrics/pm2-io-apm](https://github.com/keymetrics/pm2-io-apm) - PM2.io APM for Node.JS
+
+*   [wilk/microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
+
+*   [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
+
+*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+
+*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+
+*   [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
+
+*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+
+*   [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
+
+*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
+*   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+
+*   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
+
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+
+*   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
+
+*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+
+*   [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
+
+*   [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
+
+*   [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
+
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+
+*   [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
+
+*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+
+*   [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
+
+*   [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+
+*   [aslink87/sveltekit-auth-template](https://github.com/aslink87/sveltekit-auth-template) - Sveltekit app template, with auth flow, airbnb eslint config, typescript, prisma orm, postgres via docker dev database, and Storybook
+
+*   [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
+
+*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+
+*   [kyang6/llmparser](https://github.com/kyang6/llmparser) - Classify and extract structured data with LLMs
+
+*   [saleor/apps](https://github.com/saleor/apps) - A central space for Saleor Apps, integrations, and the App Store 🚀
+
+*   [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly) - 📝 JSON powered / Dynamic forms for Angular
+
+*   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
+
+*   [starsprung/amazon-order-reports-api](https://github.com/starsprung/amazon-order-reports-api) -
+
+*   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
+
+*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
+
+*   [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
+
+*   [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
+
+*   [superagent-ai/superagent-js](https://github.com/superagent-ai/superagent-js) - Superagent Javascript SDK
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+
+*   [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
+
+*   [JSLancerTeam/saasgear](https://github.com/JSLancerTeam/saasgear) - ReactJS and NodeJS SaaS boilerplate for your next SaaS application 🔜🔛🔝
+
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+
+*   [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
+
+*   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
+
+*   [TheCoderDream/ngx-mic-recorder](https://github.com/TheCoderDream/ngx-mic-recorder) - Microphone recorder for angular
+
+*   [shy2net/nestjs-angular-starter](https://github.com/shy2net/nestjs-angular-starter) - A starter template\boilerplate to work with NodeJS (typescript), Angular (with SSR), and shared models.
+
+*   [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
+
+*   [eaabak/ionTok](https://github.com/eaabak/ionTok) - Clone of the TikTok application
+
+*   [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+
+*   [shy2net/nodejs-angular-starter](https://github.com/shy2net/nodejs-angular-starter) - A starter template to work with on NodeJS (typescript), Angular (with SSR), and shared models.
+
+*   [Ocelot-Social-Community/Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social) - Free and open-source social network for active citizenship.
+
+*   [eugene-manuilov/typeorm-uml](https://github.com/eugene-manuilov/typeorm-uml) - Generate Entity Relationship diagrams for Typeorm powered projects.
+
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+
+*   [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+
+*   [livekit-examples/livestream](https://github.com/livekit-examples/livestream) -
+
+*   [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
+
+*   [livekit/components-js](https://github.com/livekit/components-js) - Official open source React components and examples for building with LiveKit.
+
+*   [ebouJ/E-learning](https://github.com/ebouJ/E-learning) -
+
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+
+*   [teamclairvoyant/saleor-storefront-poc](https://github.com/teamclairvoyant/saleor-storefront-poc) - Customizing Saleor storefront to add more features and evaluate.
+
+*   [alex8088/electron-vite-bytecode-example](https://github.com/alex8088/electron-vite-bytecode-example) - electron-vite source code protection example
+
+*   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+
+*   [kazuyaseki/code-transformer-for-Figma](https://github.com/kazuyaseki/code-transformer-for-Figma) - Figma plugin to generate code using OpenAI API
+
+*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
+*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+
+*   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+
+*   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
+
+*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+
+*   [Mirroar/hivemind](https://github.com/Mirroar/hivemind) - Fully automated open source AI core for the game screeps. Also usable as an opponent on private servers.
+
+*   [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
+
+*   [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+
+*   [drudge/n8n-nodes-netsuite](https://github.com/drudge/n8n-nodes-netsuite) - n8n node for interacting with NetSuite using SuiteTalk REST Web Services
+
+*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+
+*   [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE
+
+*   [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
+
+*   [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+
+*   [lancedb/lancedb-vercel-chatbot](https://github.com/lancedb/lancedb-vercel-chatbot) - Build an AI chatbot with website context retrieved from a vector store like LanceDB.
+
+*   [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
+
+*   [iloveitaly/openbook](https://github.com/iloveitaly/openbook) - Like pitchbook, but open. An open source investor/venture capital database
+
+*   [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+
+*   [mike1572/recipe-chrome-extension](https://github.com/mike1572/recipe-chrome-extension) -
+
+*   [lekhmanrus/real-shot-pdf](https://github.com/lekhmanrus/real-shot-pdf) - RealShotPDF is a Chrome extension designed to simplify the process of creating PDF documents from web content. The extension allows users to navigate through selected webpages, parse and display links in a tree view, and generate PDFs for the chosen pages. It operates locally without sending any data to external servers.
+
+*   [EmilioBarradas/tiktok-app-api](https://github.com/EmilioBarradas/tiktok-app-api) - 🎵 Unofficial TikTok Node.js API
+
+*   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+
+*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+
+*   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
+
+*   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
+
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+
+*   [rubensworks/rdf-parse.js](https://github.com/rubensworks/rdf-parse.js) - Parses RDF from any serialization
+
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+
+*   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
+
+*   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
+
+*   [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
+
+*   [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in
+
+*   [braden-w/whispering](https://github.com/braden-w/whispering) -
+
+*   [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
+
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+
+*   [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
+
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+
+*   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
+
+*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 ## JavaScript
+
+*   [dsmiller95/microsoft-teams-emojifier](https://github.com/dsmiller95/microsoft-teams-emojifier) - Add custom emoji capabilities to MS teams because Microsoft has been sitting on the feature request for years
 
 *   [seanprashad/slackmoji](https://github.com/seanprashad/slackmoji) - A collection of 1,000+ emoji for Slack
 
@@ -445,7 +665,125 @@
 
 *   [judge0/ide](https://github.com/judge0/ide) - ✨ Simple, free and open-source online code editor.
 
-*   [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+## Jupyter Notebook
+
+*   [yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions](https://github.com/yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions) - TalentOptimize: An AI-powered recruitment solutions
+
+*   [mm2260/data-mining-and-AI](https://github.com/mm2260/data-mining-and-AI) - A collection of data mining and AI related project work
+
+*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
+
+*   [aws-solutions-library-samples/fraud-detection-using-machine-learning](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning) - Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker
+
+*   [SayamAlt/Fake-Reviews-Detection](https://github.com/SayamAlt/Fake-Reviews-Detection) - Successfully developed a machine learning model which can predict whether an online review is fraudulent or not. The main idea used to detect the fake nature of reviews is that the review should be computer generated through unfair means. If the review is created manually, then it is considered legal and original.
+
+*   [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
+
+*   [CoderHam/VideoSimilarity](https://github.com/CoderHam/VideoSimilarity) - Capstone Project for MS in Data Science @ University of Washington - Video Similarity Search
+
+*   [edumunozsala/RoBERTa\_Encoder\_Decoder\_Product\_Names](https://github.com/edumunozsala/RoBERTa_Encoder_Decoder_Product_Names) - Define Transformers, T5 model and RoBERTa Encoder decoder model for product names generation
+
+*   [sugatagh/E-commerce-Text-Classification](https://github.com/sugatagh/E-commerce-Text-Classification) - Proper categorization of e-commerce products enhances the user experience and achieves better results with external search engines. The objective of the project is to classify a product into four given categories, based on its description available on an e-commerce platform.
+
+*   [esteininger/vector-search](https://github.com/esteininger/vector-search) - The definitive guide to using Vector Search to solve your semantic search production workload needs.
+
+*   [yandexdataschool/Practical\_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
+
+*   [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
+
+*   [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scraping process.
+
+*   [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
+
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+## SCSS
+
+*   [juanrgon/slack-emoji-uploader](https://github.com/juanrgon/slack-emoji-uploader) - Chrome Extension for Slack Emojis :sunglasses:
+
+## Go
+
+*   [sgreben/slack-emoji-upload](https://github.com/sgreben/slack-emoji-upload) - Slack emoji uploader, CLI. single binary, no dependencies. linux, osx, windows.
+
+*   [sausheong/waldo](https://github.com/sausheong/waldo) - Waldo is a command-line AI assistant that wraps around local LLMs, Google's Gemini models and OpenAI's GPT models
+
+*   [mchmarny/s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance
+
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+
+*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+
+*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+
+*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+
+*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
+
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
+*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
+
+*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
+
+*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+
+*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
+
+*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+
+*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+
+*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+
+*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
+
+*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
+
+*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
+
+*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+
+*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+
+*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
+
+*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
+
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## miscellaneous
 
@@ -688,308 +1026,6 @@
 *   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 
 *   [veocode/electrostudio](https://github.com/veocode/electrostudio) - Visual App Building for Electron
-
-## TypeScript
-
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-
-*   [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
-
-*   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-
-*   [ExpediaGroup/github-helpers](https://github.com/ExpediaGroup/github-helpers) - A collection of Github Actions that simplify and standardize common CI/CD workflow tasks.
-
-*   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-
-*   [tmac12/supabase-angular](https://github.com/tmac12/supabase-angular) -
-
-*   [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-
-*   [romabulani/calendar-events-backend](https://github.com/romabulani/calendar-events-backend) -
-
-*   [isaackogan/YouTubeLive](https://github.com/isaackogan/YouTubeLive) - Fully-featured YouTube LIVE scraper
-
-*   [danawoodman/sveltekit-auth-example](https://github.com/danawoodman/sveltekit-auth-example) - An example SvelteKit app implementing a simple authentication system.
-
-*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-
-*   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
-
-*   [exa-labs/exa-writing-assist](https://github.com/exa-labs/exa-writing-assist) - Writing and Citation Assistant Tool
-
-*   [zabirauf/AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-
-*   [aklinker1/publish-browser-extension](https://github.com/aklinker1/publish-browser-extension) - CI tool to easily publish browser extensions
-
-*   [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
-
-*   [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs) - Official documentation for the OneDrive API
-
-*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
-
-*   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-
-*   [livekit/agents-js](https://github.com/livekit/agents-js) - Build realtime multimodal AI agents with Node.js
-
-*   [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-
-*   [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
-
-*   [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-
-*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-
-*   [ngneat/nx-serverless](https://github.com/ngneat/nx-serverless) - 🚀 The Ultimate Monorepo Starter for Node.js Serverless Applications
-
-*   [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-
-*   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-
-*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-
-*   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-
-*   [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-
-*   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-
-*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-
-*   [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
-
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
-
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-*   [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-
-*   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-
-*   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
-
-*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-
-*   [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-
-*   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-
-*   [keymetrics/pm2-io-apm](https://github.com/keymetrics/pm2-io-apm) - PM2.io APM for Node.JS
-
-*   [wilk/microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
-
-*   [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
-
-*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
-
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
-
-*   [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
-
-*   [typegoose/mongodb-memory-server](https://github.com/typegoose/mongodb-memory-server) - Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.
-
-*   [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-
-*   [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
-
-*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-
-*   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-
-*   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
-
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-
-*   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
-
-*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
-
-*   [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
-
-*   [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
-
-*   [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
-
-*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-
-*   [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
-
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-*   [dyc3/opentogethertube](https://github.com/dyc3/opentogethertube) - Watch videos with your friends. The spiritual successor to TogetherTube, preserving the spirit of it's simple to use interface, while improving it's look, feel, and reliability.
-
-*   [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-
-*   [aslink87/sveltekit-auth-template](https://github.com/aslink87/sveltekit-auth-template) - Sveltekit app template, with auth flow, airbnb eslint config, typescript, prisma orm, postgres via docker dev database, and Storybook
-
-*   [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
-
-*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-
-*   [kyang6/llmparser](https://github.com/kyang6/llmparser) - Classify and extract structured data with LLMs
-
-*   [saleor/apps](https://github.com/saleor/apps) - A central space for Saleor Apps, integrations, and the App Store 🚀
-
-*   [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly) - 📝 JSON powered / Dynamic forms for Angular
-
-*   [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
-
-*   [starsprung/amazon-order-reports-api](https://github.com/starsprung/amazon-order-reports-api) -
-
-*   [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
-
-*   [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-
-*   [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
-
-*   [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
-
-*   [superagent-ai/superagent-js](https://github.com/superagent-ai/superagent-js) - Superagent Javascript SDK
-
-*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
-
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
-
-*   [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
-
-*   [JSLancerTeam/saasgear](https://github.com/JSLancerTeam/saasgear) - ReactJS and NodeJS SaaS boilerplate for your next SaaS application 🔜🔛🔝
-
-*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-
-*   [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
-
-*   [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
-
-*   [TheCoderDream/ngx-mic-recorder](https://github.com/TheCoderDream/ngx-mic-recorder) - Microphone recorder for angular
-
-*   [shy2net/nestjs-angular-starter](https://github.com/shy2net/nestjs-angular-starter) - A starter template\boilerplate to work with NodeJS (typescript), Angular (with SSR), and shared models.
-
-*   [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
-
-*   [eaabak/ionTok](https://github.com/eaabak/ionTok) - Clone of the TikTok application
-
-*   [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
-
-*   [shy2net/nodejs-angular-starter](https://github.com/shy2net/nodejs-angular-starter) - A starter template to work with on NodeJS (typescript), Angular (with SSR), and shared models.
-
-*   [Ocelot-Social-Community/Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social) - Free and open-source social network for active citizenship.
-
-*   [eugene-manuilov/typeorm-uml](https://github.com/eugene-manuilov/typeorm-uml) - Generate Entity Relationship diagrams for Typeorm powered projects.
-
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-
-*   [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
-
-*   [livekit-examples/livestream](https://github.com/livekit-examples/livestream) -
-
-*   [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
-
-*   [livekit/components-js](https://github.com/livekit/components-js) - Official open source React components and examples for building with LiveKit.
-
-*   [ebouJ/E-learning](https://github.com/ebouJ/E-learning) -
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-
-*   [teamclairvoyant/saleor-storefront-poc](https://github.com/teamclairvoyant/saleor-storefront-poc) - Customizing Saleor storefront to add more features and evaluate.
-
-*   [alex8088/electron-vite-bytecode-example](https://github.com/alex8088/electron-vite-bytecode-example) - electron-vite source code protection example
-
-*   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-
-*   [kazuyaseki/code-transformer-for-Figma](https://github.com/kazuyaseki/code-transformer-for-Figma) - Figma plugin to generate code using OpenAI API
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-
-*   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-
-*   [sequelize/sequelize-auto](https://github.com/sequelize/sequelize-auto) - Automatically generate bare sequelize models from your database.
-
-*   [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-
-*   [Mirroar/hivemind](https://github.com/Mirroar/hivemind) - Fully automated open source AI core for the game screeps. Also usable as an opponent on private servers.
-
-*   [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
-
-*   [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-
-*   [drudge/n8n-nodes-netsuite](https://github.com/drudge/n8n-nodes-netsuite) - n8n node for interacting with NetSuite using SuiteTalk REST Web Services
-
-*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-
-*   [docker/setup-docker-action](https://github.com/docker/setup-docker-action) - GitHub Action to set up (download and install) Docker CE
-
-*   [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
-
-*   [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng-zorro
-
-*   [lancedb/lancedb-vercel-chatbot](https://github.com/lancedb/lancedb-vercel-chatbot) - Build an AI chatbot with website context retrieved from a vector store like LanceDB.
-
-*   [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
-
-*   [iloveitaly/openbook](https://github.com/iloveitaly/openbook) - Like pitchbook, but open. An open source investor/venture capital database
-
-*   [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-
-*   [mike1572/recipe-chrome-extension](https://github.com/mike1572/recipe-chrome-extension) -
-
-*   [lekhmanrus/real-shot-pdf](https://github.com/lekhmanrus/real-shot-pdf) - RealShotPDF is a Chrome extension designed to simplify the process of creating PDF documents from web content. The extension allows users to navigate through selected webpages, parse and display links in a tree view, and generate PDFs for the chosen pages. It operates locally without sending any data to external servers.
-
-*   [EmilioBarradas/tiktok-app-api](https://github.com/EmilioBarradas/tiktok-app-api) - 🎵 Unofficial TikTok Node.js API
-
-*   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-
-*   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-
-*   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
-
-*   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-
-*   [rubensworks/rdf-parse.js](https://github.com/rubensworks/rdf-parse.js) - Parses RDF from any serialization
-
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
-
-*   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
-
-*   [yacineMTB/talk](https://github.com/yacineMTB/talk) - Let's make sand talk
-
-*   [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in
-
-*   [braden-w/whispering](https://github.com/braden-w/whispering) -
-
-*   [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
-
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
-
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-
-*   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
-
-*   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 ## Python
 
@@ -1313,40 +1349,6 @@
 
 *   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 
-## Jupyter Notebook
-
-*   [mm2260/data-mining-and-AI](https://github.com/mm2260/data-mining-and-AI) - A collection of data mining and AI related project work
-
-*   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
-
-*   [aws-solutions-library-samples/fraud-detection-using-machine-learning](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning) - Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker
-
-*   [SayamAlt/Fake-Reviews-Detection](https://github.com/SayamAlt/Fake-Reviews-Detection) - Successfully developed a machine learning model which can predict whether an online review is fraudulent or not. The main idea used to detect the fake nature of reviews is that the review should be computer generated through unfair means. If the review is created manually, then it is considered legal and original.
-
-*   [mfrashad/text2art](https://github.com/mfrashad/text2art) - AI-powered Text-to-Art Generator - Text2Art.com
-
-*   [CoderHam/VideoSimilarity](https://github.com/CoderHam/VideoSimilarity) - Capstone Project for MS in Data Science @ University of Washington - Video Similarity Search
-
-*   [edumunozsala/RoBERTa\_Encoder\_Decoder\_Product\_Names](https://github.com/edumunozsala/RoBERTa_Encoder_Decoder_Product_Names) - Define Transformers, T5 model and RoBERTa Encoder decoder model for product names generation
-
-*   [sugatagh/E-commerce-Text-Classification](https://github.com/sugatagh/E-commerce-Text-Classification) - Proper categorization of e-commerce products enhances the user experience and achieves better results with external search engines. The objective of the project is to classify a product into four given categories, based on its description available on an e-commerce platform.
-
-*   [esteininger/vector-search](https://github.com/esteininger/vector-search) - The definitive guide to using Vector Search to solve your semantic search production workload needs.
-
-*   [yandexdataschool/Practical\_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
-
-*   [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
-
-*   [dirkjbreeuwer/gpt-automated-web-scraper](https://github.com/dirkjbreeuwer/gpt-automated-web-scraper) - The GPT-based Universal Web Scraper MVP is a solution that leverages GPT models and web scraping libraries to generate scraper code based on user input and website analysis, simplifying the web scraping process.
-
-*   [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
-
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-
-*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
 ## C\#
 
 *   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
@@ -1424,8 +1426,6 @@
 *   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
 
 *   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
-
-*   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
 
 ## Dockerfile
 
