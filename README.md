@@ -1253,7 +1253,7 @@
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-*   [feder-cr/Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+*   [feder-cr/Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto\_Jobs\_Applier\_AI\_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an tailored way.
 
 *   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 
