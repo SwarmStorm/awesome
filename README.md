@@ -5,7 +5,6 @@
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [SCSS](#scss)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
@@ -700,10 +699,6 @@
 *   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
 *   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-## SCSS
-
-*   [juanrgon/slack-emoji-uploader](https://github.com/juanrgon/slack-emoji-uploader) - Chrome Extension for Slack Emojis :sunglasses:
 
 ## Go
 
@@ -1426,6 +1421,8 @@
 *   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
 
 *   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
+
+*   [TryItOnline/tiosetup](https://github.com/TryItOnline/tiosetup) - Provides setup scripts and instructions for Try It Online
 
 ## Dockerfile
 
