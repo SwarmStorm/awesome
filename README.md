@@ -1472,7 +1472,7 @@
 
 ## Rust
 
-*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
+*   [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 
 *   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
