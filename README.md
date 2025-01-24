@@ -746,7 +746,7 @@
 
 *   [mandatoryprogrammer/CursedChrome](https://github.com/mandatoryprogrammer/CursedChrome) - Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies, allowing you to browse sites as your victims.
 
-*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension extracts only the recipe from any website or blog page, without any life stories or clutter.
+*   [steven-lm/Jump-To-Recipe](https://github.com/steven-lm/Jump-To-Recipe) - A Chrome extension that extracts only the recipe from any website or blog page, without any life stories or clutter.
 
 *   [JayPuff/browser-file-storage](https://github.com/JayPuff/browser-file-storage) - Abstracts the complexity of indexed DB so that a user can easily save files/blobs by key/filename on the browser
 
@@ -796,7 +796,7 @@
 
 *   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
 
-*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers.
+*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS), and multi-language translation. Perfect for content creators and developers.
 
 *   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
