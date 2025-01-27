@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Go](#go)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -38,151 +38,9 @@
 *   [C](#c-2)
 *   [Elixir](#elixir)
 
-## Shell
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-
-*   [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo) - Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
-
-*   [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
-
-*   [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
-
-*   [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
-
-*   [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools) - DevOps Golang tools
-
-*   [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
-
-*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
-
-*   [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
-
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-
-*   [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
-
-*   [fifsky/ssh-action](https://github.com/fifsky/ssh-action) - 🖥 github ssh action
-
-*   [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-
-*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
-
-*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
-
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-
-*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-
-*   [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
-
-*   [zhuchuangang/k8s-install-scripts](https://github.com/zhuchuangang/k8s-install-scripts) - kubernetes install scripts,that includes etcd、kubernetes、flannel、docker,and there are many yaml files here,for example the kubernetes addones,redis,rabbitmq,mongo,traefik,ingress-nginx,cpehfs and so on.
-
-*   [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
-
-*   [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose](https://github.com/damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose) - If You want to build a website with Moodle "moodle" at short time; install full stack nginx Moodle with Docker Compose. Plus, manage docker containers with Portainer.
-
-*   [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
-
-*   [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -
-
-*   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
-
-## Go
-
-*   [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-
-*   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-
-*   [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
-
-*   [sgreben/slack-emoji-upload](https://github.com/sgreben/slack-emoji-upload) - Slack emoji uploader, CLI. single binary, no dependencies. linux, osx, windows.
-
-*   [sausheong/waldo](https://github.com/sausheong/waldo) - Waldo is a command-line AI assistant that wraps around local LLMs, Google's Gemini models and OpenAI's GPT models
-
-*   [mchmarny/s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance
-
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-
-*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
-
-*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
-
-*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-
-*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
-
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-
-*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
-
-*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
-
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-
-*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-
-*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-
-*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
-
-*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-
-*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
-
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
-
-*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
-
-*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
-
-*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
-
-*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
-
-*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
-
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-
-*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
-
-*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-
-*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
-
-*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
-
-*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
-
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
-
 ## TypeScript
+
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 
 *   [masslight/ottehr](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
 
@@ -479,6 +337,150 @@
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
 *   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
+
+## Shell
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+
+*   [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo) - Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
+
+*   [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
+
+*   [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
+
+*   [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base) - Large Tech Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
+
+*   [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools) - DevOps Golang tools
+
+*   [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
+
+*   [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+
+*   [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, Oracle, Google BigQuery, MariaDB, AWS Athena. DBA, Analytics, DevOps, performance engineering. Google BigQuery ML machine learning classification.
+
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+
+*   [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
+
+*   [fifsky/ssh-action](https://github.com/fifsky/ssh-action) - 🖥 github ssh action
+
+*   [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+
+*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+
+*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
+
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+
+*   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+
+*   [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
+
+*   [zhuchuangang/k8s-install-scripts](https://github.com/zhuchuangang/k8s-install-scripts) - kubernetes install scripts,that includes etcd、kubernetes、flannel、docker,and there are many yaml files here,for example the kubernetes addones,redis,rabbitmq,mongo,traefik,ingress-nginx,cpehfs and so on.
+
+*   [alpine-docker/k8s](https://github.com/alpine-docker/k8s) - All-In-One Kubernetes tools (kubectl, helm, iam-authenticator, eksctl, etc)
+
+*   [vilaca/awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools) - List of container/k8s tools.
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose](https://github.com/damalis/full-stack-nginx-moodle-for-everyone-with-docker-compose) - If You want to build a website with Moodle "moodle" at short time; install full stack nginx Moodle with Docker Compose. Plus, manage docker containers with Portainer.
+
+*   [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
+
+*   [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -
+
+*   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
+
+## Go
+
+*   [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+
+*   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+
+*   [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
+
+*   [sgreben/slack-emoji-upload](https://github.com/sgreben/slack-emoji-upload) - Slack emoji uploader, CLI. single binary, no dependencies. linux, osx, windows.
+
+*   [sausheong/waldo](https://github.com/sausheong/waldo) - Waldo is a command-line AI assistant that wraps around local LLMs, Google's Gemini models and OpenAI's GPT models
+
+*   [mchmarny/s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance
+
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+*   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+
+*   [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+
+*   [gobeli/pocketbase-htmx](https://github.com/gobeli/pocketbase-htmx) - Demo on how to use Pocketbase as a framework (With TEMPL and HTMX)
+
+*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+
+*   [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [viddrobnic/sparovec](https://github.com/viddrobnic/sparovec) - A very simple web app for managing personal finances.
+
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
+*   [aschzero/hera](https://github.com/aschzero/hera) - Automated secure tunnels for containers using Cloudflare Argo
+
+*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
+
+*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [edgelesssys/constellation](https://github.com/edgelesssys/constellation) - Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+
+*   [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+
+*   [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
+
+*   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+
+*   [dragonflydb/dragonfly-operator](https://github.com/dragonflydb/dragonfly-operator) - A Kubernetes operator to install and manage Dragonfly instances.
+
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+
+*   [vdaas/vald](https://github.com/vdaas/vald) - Vald.  A Highly Scalable Distributed Vector Search Engine
+
+*   [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
+
+*   [jssdeveloper/get\_ebay\_listings](https://github.com/jssdeveloper/get_ebay_listings) - Program written in Go to download active ebay items to csv file without using eBay web page. You can use Cron job to create daily imports.
+
+*   [machinebox/toys](https://github.com/machinebox/toys) - Tools, scripts, toys, and utilities for Machine Box
+
+*   [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
+
+*   [livekit-examples/kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [GoneUp/mask-go](https://github.com/GoneUp/mask-go) - Control your "shining" LED mask with Golang
+
+*   [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+
+*   [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
+
+*   [nwestfall/lambda-github-runner](https://github.com/nwestfall/lambda-github-runner) - Github Action Runner inside of Lambda - A Completely Serverless Solution
+
+*   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
+
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 ## JavaScript
 
@@ -1050,7 +1052,7 @@
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
-*   [feder-cr/Jobs\_Applier\_AI\_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Jobs\_Applier\_AI\_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+*   [feder-cr/Jobs\_Applier\_AI\_Agent\_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs\_Applier\_AI\_Agent\_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 
 *   [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 
@@ -1103,8 +1105,6 @@
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 *   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-
-*   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ## miscellaneous
 
