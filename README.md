@@ -838,7 +838,7 @@
 
 *   [Michele0303/tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder) - 🎥✨ A TikTok live streaming recorder tool written in Python. Capture and relive your favorite TikTok moments effortlessly. 🎥✨
 
-*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds third-party integrations through reverse engineering platforms' internal APIs.
+*   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 
