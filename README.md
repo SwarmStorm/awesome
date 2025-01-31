@@ -25,7 +25,6 @@
 *   [Ruby](#ruby)
 *   [Perl](#perl)
 *   [C++](#c-1)
-*   [Blade](#blade)
 *   [TeX](#tex)
 *   [Swift](#swift)
 *   [Mustache](#mustache)
@@ -870,6 +869,8 @@
 
 *   [tearoom6/QuickDrive2](https://github.com/tearoom6/QuickDrive2) - Chrome extension to provide quick access to your Google Drive files.
 
+*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 
 *   [hokaccha/node-jwt-simple](https://github.com/hokaccha/node-jwt-simple) - JWT(JSON Web Token) encode and decode module for node.js
@@ -1641,10 +1642,6 @@
 *   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 *   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
-
-## Blade
-
-*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## TeX
 
