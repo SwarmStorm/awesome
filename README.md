@@ -39,6 +39,8 @@
 
 ## Python
 
+*   [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption) - JoyCaption is an image captioning Visual Language Model (VLM) being built from the ground up as a free, open, and uncensored model for the community to use in training Diffusion models.
+
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 *   [CircuitLaunch/CoLab-Reachy](https://github.com/CircuitLaunch/CoLab-Reachy) - Reachy Humanoid Robot (Pollen Robotics)
@@ -1248,8 +1250,6 @@
 *   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 
 *   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
-
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 
 ## Shell
 
