@@ -925,7 +925,7 @@
 
 *   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
 
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
 *   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
 
