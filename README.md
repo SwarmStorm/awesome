@@ -679,8 +679,6 @@
 
 *   [seanprashad/slackmoji](https://github.com/seanprashad/slackmoji) - A collection of 1,000+ emoji for Slack
 
-*   [Asadur-Rehman/TalentScout](https://github.com/Asadur-Rehman/TalentScout) - TalentScout is a cloud-based AI recruitment platform that streamlines the hiring process with real-time video interviews, dynamic questions, and easy-to-use dashboards. Built using the MERN stack and AI technologies.
-
 *   [ciokaneala/long-tail-npm](https://github.com/ciokaneala/long-tail-npm) - NPM Package for retrieving long tail keyword suggestions. Uses a REST API for retrieving them which is highly scalable and support thousands of requests.
 
 *   [lycoris11/hirewise-ai](https://github.com/lycoris11/hirewise-ai) - AI Web App to streamline Recruiting. Uses AI to match the best applicant for the role based on their resume.
@@ -1020,6 +1018,8 @@
 *   [Maximillion195/google-shopping-list](https://github.com/Maximillion195/google-shopping-list) - Scrapes the shopping list from shoppinglist.google.com as Google does not seem to have an API for this.
 
 *   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
+
+*   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
 
 ## Python
 
