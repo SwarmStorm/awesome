@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Scheme](#scheme)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [C++](#c)
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [Go](#go)
@@ -38,6 +38,48 @@
 *   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C++
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+*   [Victor-Haefner/telerobi](https://github.com/Victor-Haefner/telerobi) - Firmware and server application for DIY telepresence robot
+
+*   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
+
+*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
+
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
+*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
+
+*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+
+*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
+
+*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
+
+*   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
+
+*   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## miscellaneous
 
@@ -1017,8 +1059,6 @@
 
 *   [yobulkdev/yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
 
-*   [CDH-Studio/Jarvis](https://github.com/CDH-Studio/Jarvis) - Simplified room booking web application.
-
 ## Python
 
 *   [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -1340,46 +1380,6 @@
 *   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 *   [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
-
-## C++
-
-*   [Victor-Haefner/telerobi](https://github.com/Victor-Haefner/telerobi) - Firmware and server application for DIY telepresence robot
-
-*   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
-
-*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
-
-*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
-
-*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-
-*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-
-*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
-
-*   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
-
-*   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 
 ## Rust
 
