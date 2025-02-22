@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
+*   [C](#c)
+*   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Scheme](#scheme)
 *   [TypeScript](#typescript)
@@ -14,7 +15,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [CSS](#css)
 *   [HTML](#html)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Pug](#pug)
 *   [HCL](#hcl)
@@ -35,9 +36,26 @@
 *   [Lua](#lua)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
-*   [C](#c-2)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
+*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
+
+*   [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
+
+*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+
+*   [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+
+*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 
 ## C++
 
@@ -677,8 +695,6 @@
 
 *   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
 
-*   [archilogic-com/room-booking](https://github.com/archilogic-com/room-booking) - Room booking demo using the Archilogic Space API and SDK
-
 ## JavaScript
 
 *   [sobstel/hydropuzzle](https://github.com/sobstel/hydropuzzle) - Surreal tech adventure game for iOS and Android. Built with React Native.
@@ -1171,9 +1187,9 @@
 
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
-*   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+*   [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 
-*   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
+*   [geldata/imdbench](https://github.com/geldata/imdbench) - IMDBench — Realistic ORM benchmarking
 
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
@@ -1886,22 +1902,6 @@
 ## Kotlin
 
 *   [truefedex/GeckoViewNativeWebApp](https://github.com/truefedex/GeckoViewNativeWebApp) - A minimal example of an embedded web application in GekView with two-way communication between the web and native parts. It may not be the best solution, but that's all I've been able to find so far.
-
-## C
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-*   [tarruda/llama.cpp](https://github.com/tarruda/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-*   [AiPratice/VideoAnalysisEngine](https://github.com/AiPratice/VideoAnalysisEngine) -  A video analysis engine with similarity frame retrieval,keyframe faces recognition,keyframe objects detection and etc.
-
-*   [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
-
-*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-
-*   [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
-
-*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 
 ## Elixir
 
