@@ -767,8 +767,6 @@
 
 *   [kiranwankhade/evallo](https://github.com/kiranwankhade/evallo) - This project is a Basic Tutor Calendar System that allows users to manage their schedules and integrates with Google Calendar. The system includes features for viewing, creating, updating, and deleting events. It demonstrates skills in handling third-party API integrations, creating intuitive user interfaces, and developing backend functionalities.
 
-*   [benallfree/pocketpages](https://github.com/benallfree/pocketpages) - Server-Side pages for PocketBase
-
 *   [facundofernandez/videojs-dvr](https://github.com/facundofernandez/videojs-dvr) -
 
 *   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -1187,7 +1185,7 @@
 
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 
-*   [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+*   [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 
 *   [geldata/imdbench](https://github.com/geldata/imdbench) - IMDBench — Realistic ORM benchmarking
 
@@ -1620,6 +1618,8 @@
 *   [VeryGoodOpenSource/very\_good\_workflows](https://github.com/VeryGoodOpenSource/very_good_workflows) - Reusable GitHub workflows used at Very Good Ventures 🦄
 
 *   [HoussemDellai/github-actions-course](https://github.com/HoussemDellai/github-actions-course) - Samples for Github Actions DevOps pipelines and workflows
+
+*   [benallfree/pocketpages](https://github.com/benallfree/pocketpages) - Server-Side pages for PocketBase
 
 *   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 
