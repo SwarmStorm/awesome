@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [AppleScript](#applescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
@@ -38,6 +39,10 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## AppleScript
+
+*   [jeongwhanchoi/convert-ppt-to-pdf](https://github.com/jeongwhanchoi/convert-ppt-to-pdf) - Batch convert ppt files to pdf files by Automator on MacOS
 
 ## Python
 
@@ -1420,8 +1425,6 @@
 *   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
 
 *   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
-
-*   [73rhodes/node-python](https://github.com/73rhodes/node-python) - Communicate with a long-running Python child process from NodeJS.
 
 ## Shell
 
