@@ -512,7 +512,7 @@
 
 *   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
 
-*   [loongOpen/Openloong-hardware](https://github.com/loongOpen/Openloong-hardware) - Hardware System for Humanoid Robots
+*   [loongOpen/OpenLoong-Hardware](https://github.com/loongOpen/OpenLoong-Hardware) - Hardware System for Humanoid Robots
 
 *   [SwarmStorm/OverlayScrollbars](https://github.com/SwarmStorm/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 
