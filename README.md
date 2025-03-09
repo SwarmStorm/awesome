@@ -42,6 +42,8 @@
 
 ## TypeScript
 
+*   [dcavalcante/react-native-sprites](https://github.com/dcavalcante/react-native-sprites) - Spritesheet component for React Native
+
 *   [friyiajr/SkiaAnimationShowcase](https://github.com/friyiajr/SkiaAnimationShowcase) - This is a showcase of all animations from the Dan's React-Native Lab Channel!
 
 *   [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
@@ -387,8 +389,6 @@
 *   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
 
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
-
-*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 
 ## JavaScript
 
