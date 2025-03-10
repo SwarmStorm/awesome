@@ -42,6 +42,8 @@
 
 ## TypeScript
 
+*   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+
 *   [dcavalcante/react-native-sprites](https://github.com/dcavalcante/react-native-sprites) - Spritesheet component for React Native
 
 *   [friyiajr/SkiaAnimationShowcase](https://github.com/friyiajr/SkiaAnimationShowcase) - This is a showcase of all animations from the Dan's React-Native Lab Channel!
@@ -387,8 +389,6 @@
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
 *   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
-
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
 
 ## JavaScript
 
