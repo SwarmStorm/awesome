@@ -354,6 +354,8 @@
 
 *   [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 
+*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+
 *   [drudge/n8n-nodes-netsuite](https://github.com/drudge/n8n-nodes-netsuite) - n8n node for interacting with NetSuite using SuiteTalk REST Web Services
 
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -1799,8 +1801,6 @@
 *   [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
 
 *   [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
-
-*   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
 *   [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 
