@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -15,12 +16,11 @@
 *   [PHP](#php)
 *   [Go](#go)
 *   [AppleScript](#applescript)
-*   [C](#c)
-*   [C++](#c-1)
+*   [C](#c-1)
+*   [C++](#c-2)
 *   [Scheme](#scheme)
 *   [CSS](#css)
 *   [HTML](#html)
-*   [C#](#c-2)
 *   [Pug](#pug)
 *   [HCL](#hcl)
 *   [D2](#d2)
@@ -39,6 +39,28 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C\#
+
+*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
+
+*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
+
+*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
+
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+
+*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
+
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
+
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## JavaScript
 
@@ -1650,8 +1672,6 @@
 
 *   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 
-*   [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
-
 ## C++
 
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1747,26 +1767,6 @@
 *   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 
 *   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-## C\#
-
-*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
-
-*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
-
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-
-*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
-
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Pug
 
