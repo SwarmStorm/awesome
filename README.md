@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Perl](#perl)
 *   [Go](#go)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -27,7 +28,7 @@
 *   [Svelte](#svelte)
 *   [Zig](#zig)
 *   [Ruby](#ruby)
-*   [Perl](#perl)
+*   [Smalltalk](#smalltalk)
 *   [TeX](#tex)
 *   [Swift](#swift)
 *   [Mustache](#mustache)
@@ -39,6 +40,14 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## Perl
+
+*   [bucardo/bucardo](https://github.com/bucardo/bucardo) - Bucardo multimaster and master/slave Postgres replication
+
+*   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
+
+*   [operepo/ope](https://github.com/operepo/ope) - Open Prison Education project - Code and scripts to enable offline docker services and offline laptop syncing for inmate education
 
 ## Go
 
@@ -149,8 +158,6 @@
 *   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 
 *   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
 
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
@@ -883,8 +890,6 @@
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
 *   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
-
-*   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
 
 ## Dockerfile
 
@@ -1850,11 +1855,9 @@
 
 *   [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
 
-## Perl
+## Smalltalk
 
-*   [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
-
-*   [operepo/ope](https://github.com/operepo/ope) - Open Prison Education project - Code and scripts to enable offline docker services and offline laptop syncing for inmate education
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
 
 ## TeX
 
