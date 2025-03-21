@@ -1311,7 +1311,7 @@
 
 *   [Ronoh4/KnowledgeGraphCrew](https://github.com/Ronoh4/KnowledgeGraphCrew) -
 
-*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2E, F5-TTS, CosyVoice), with Whisper audio processing, RVC voice changer, YouTube download, UVR5 vocal isolation, and multilingual translation.
+*   [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 
 *   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
