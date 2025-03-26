@@ -646,7 +646,7 @@
 
 *   [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs) - Official documentation for the OneDrive API
 
-*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
+*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web and React components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 
 *   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 
