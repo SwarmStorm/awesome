@@ -369,6 +369,8 @@
 
 *   [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 
+*   [graphicalmethods/serverless-llamas](https://github.com/graphicalmethods/serverless-llamas) - Serverless llama.cpp and Ollama
+
 ## Rust
 
 *   [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
@@ -1478,8 +1480,6 @@
 *   [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 
 *   [eagleusb/awesome-repositories](https://github.com/eagleusb/awesome-repositories) - Personal representation of my 4k github repositories stars.
-
-*   [Lorenzik/TMRB](https://github.com/Lorenzik/TMRB) - TikTok Mass Report Bot
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
