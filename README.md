@@ -28,7 +28,6 @@
 *   [Svelte](#svelte)
 *   [Zig](#zig)
 *   [Ruby](#ruby)
-*   [Smalltalk](#smalltalk)
 *   [Blade](#blade)
 *   [TeX](#tex)
 *   [Swift](#swift)
@@ -1355,6 +1354,8 @@
 
 *   [mansueli/Supa-Backup](https://github.com/mansueli/Supa-Backup) - Github Action for Supabase Backups
 
+*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
+
 *   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 
 *   [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
@@ -1854,10 +1855,6 @@
 *   [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.
 
 *   [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
-
-## Smalltalk
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
 
 ## Blade
 
