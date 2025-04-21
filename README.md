@@ -108,7 +108,7 @@
 
 *   [dsmiller95/custom-emoji-server](https://github.com/dsmiller95/custom-emoji-server) - a server to store and manage a set of custom emoji
 
-*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+*   [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 
 *   [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 
