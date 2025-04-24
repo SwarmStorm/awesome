@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -39,6 +40,10 @@
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
+
+## MDX
+
+*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
 ## miscellaneous
 
@@ -641,8 +646,6 @@
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 
 *   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
-
-*   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 
 ## Rust
 
