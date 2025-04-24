@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [MDX](#mdx)
 *   [miscellaneous](#miscellaneous)
+*   [MDX](#mdx)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -41,11 +41,9 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 
-## MDX
-
-*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-
 ## miscellaneous
+
+*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 
 *   [PR-Pilot-AI/smart-project-template](https://github.com/PR-Pilot-AI/smart-project-template) - A template project with powerful AI automations out-of-the-box
 
@@ -306,6 +304,10 @@
 *   [gsans/aws-amplify-workshop-angular](https://github.com/gsans/aws-amplify-workshop-angular) - Building Full Stack GraphQL Applications with AWS Amplify and Angular
 
 *   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+
+## MDX
+
+*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
 ## TypeScript
 
@@ -644,8 +646,6 @@
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-
-*   [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 
 ## Rust
 
