@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
 *   [TypeScript](#typescript)
+*   [C++](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -42,59 +42,9 @@
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
-## C++
-
-*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-
-*   [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-
-*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
-
-*   [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
-
-*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-*   [Victor-Haefner/telerobi](https://github.com/Victor-Haefner/telerobi) - Firmware and server application for DIY telepresence robot
-
-*   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
-
-*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
-
-*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
-
-*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-
-*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-
-*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-
-*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
-
-*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
-
-*   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
-
-*   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
 ## TypeScript
+
+*   [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 
 *   [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 
@@ -486,6 +436,58 @@
 
 *   [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
 
+## C++
+
+*   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+
+*   [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
+
+*   [eranif/codelite](https://github.com/eranif/codelite) - A multi purpose IDE specialized in C/C++/Rust/Python/PHP and Node.js. Written in C++
+
+*   [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+
+*   [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+*   [Victor-Haefner/telerobi](https://github.com/Victor-Haefner/telerobi) - Firmware and server application for DIY telepresence robot
+
+*   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
+
+*   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
+
+*   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
+
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
+*   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
+
+*   [soul-lang/SOUL](https://github.com/soul-lang/SOUL) - The SOUL programming language and API
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [deepindeed2022/deephash](https://github.com/deepindeed2022/deephash) - Based neural network hash method
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+
+*   [ZackBradshaw/Bluepy](https://github.com/ZackBradshaw/Bluepy) - Plugin for unreal to generate blueprints using Gen AI
+
+*   [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.
+
+*   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
+
+*   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
 ## Python
 
 *   [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model
@@ -847,8 +849,6 @@
 *   [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 
 *   [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-
-*   [smashwilson/slack-emojinator](https://github.com/smashwilson/slack-emojinator) - Bulk upload emoji into Slack
 
 ## JavaScript
 
