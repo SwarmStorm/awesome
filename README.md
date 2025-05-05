@@ -780,7 +780,7 @@
 
 *   [greasysock/bnbCalendar](https://github.com/greasysock/bnbCalendar) - Airbnb and VRBO ical sync for teamwork
 
-*   [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator) - This is a generator for getting a session that passes all the checks from YouTube side
+*   [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator) - TOOL IS DEPRECATED - This is a generator for getting a session that passes all the checks from YouTube side
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
