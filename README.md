@@ -32,7 +32,7 @@
 *   [Blade](#blade)
 *   [TeX](#tex)
 *   [Swift](#swift)
-*   [Mustache](#mustache)
+*   [Smarty](#smarty)
 *   [R](#r)
 *   [Matlab](#matlab)
 *   [Scala](#scala)
@@ -156,7 +156,7 @@
 
 *   [OneDrive/onedrive-api-docs](https://github.com/OneDrive/onedrive-api-docs) - Official documentation for the OneDrive API
 
-*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
+*   [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, minimalist loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 
 *   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 
@@ -2072,7 +2072,7 @@
 
 *   [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 
-## Mustache
+## Smarty
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
