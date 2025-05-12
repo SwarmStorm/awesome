@@ -946,7 +946,7 @@
 
 *   [facundofernandez/videojs-dvr](https://github.com/facundofernandez/videojs-dvr) -
 
-*   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+*   [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 
 *   [airyland/logo.surf](https://github.com/airyland/logo.surf) - Free Text-to-Logo-and-favicon Generator
 
