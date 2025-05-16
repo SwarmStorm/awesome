@@ -614,7 +614,7 @@
 
 *   [lef-fan/aria](https://github.com/lef-fan/aria) - A local and uncensored AI entity.
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "PhD-Level AI Agents: Fully-Automated Scientific Discovery with Our AI-Researcher Powered by LLMs"
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
 
 *   [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) - NewsFeel: A Sentiment Analysis Tool for Financial News
 
