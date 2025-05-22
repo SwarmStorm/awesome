@@ -530,7 +530,7 @@
 
 *   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
 
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Scalable Infrastructure for Running Your AI Workloads at Scale
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
@@ -1682,7 +1682,7 @@
 
 *   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 
-*   [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
+*   [lnx-search/lnx](https://github.com/lnx-search/lnx) - An insanely fast search engine for scaling to the stars 🌠
 
 ## HTML
 
