@@ -102,6 +102,8 @@
 
 *   [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption) - JoyCaption is an image captioning Visual Language Model (VLM) being built from the ground up as a free, open, and uncensored model for the community to use in training Diffusion models.
 
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+
 *   [CircuitLaunch/CoLab-Reachy](https://github.com/CircuitLaunch/CoLab-Reachy) - Reachy Humanoid Robot (Pollen Robotics)
 
 *   [riad-azz/tiktok-saver](https://github.com/riad-azz/tiktok-saver) - TikTok Saver is a SaaS (Software as a service) for downloading and saving Tiktok videos with the highest quality and no watermark.
@@ -601,8 +603,6 @@
 *   [EvanBacon/Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road) - 🐥🚙 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. 🐔
 
 *   [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 *   [hrishioa/wasm-ai](https://github.com/hrishioa/wasm-ai) - Vercel and web-llm template to run wasm models directly in the browser.
 
