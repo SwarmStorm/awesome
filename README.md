@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 
 *   [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model
@@ -1725,8 +1727,6 @@
 *   [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 
 *   [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
-
-*   [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 
 ## Jupyter Notebook
 
