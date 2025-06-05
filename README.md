@@ -574,8 +574,6 @@
 
 *   [kaiban-ai/kaiban-agents-aggregator](https://github.com/kaiban-ai/kaiban-agents-aggregator) - A powerful AI-powered newsletter aggregator built with KaibanJS and React.
 
-*   [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly routes traffic to avoid bans.
-
 *   [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -1407,6 +1405,8 @@
 *   [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 
 *   [sherifButt/mindfullai](https://github.com/sherifButt/mindfullai) - (In Development) AI Mind Map Web App is an advanced mind mapping tool that harnesses the power of AI to generate, expand, and connect ideas in a dynamic, interactive, and visually appealing format.
+
+*   [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy) - Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly routes traffic to avoid bans.
 
 *   [LlamaGenAI/awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
 
