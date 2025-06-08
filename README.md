@@ -64,7 +64,7 @@
 
 *   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-*   [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - ALwrity - All-in-One AI Content Generation Platform for Website, Social media & copywriting. AI Deep Web Researcher, SEO optimized content. Generate Text, Image, Audio. Content planning & Brainstorming with AI Agents team. Generate content with RAG, Local documents, web urls, PDFs. Open Source AI writer. (WIP)
+*   [AJaySi/AI-Writer](https://github.com/AJaySi/AI-Writer) - 🚀 ALwrity - AI-Powered Content Creation & SEO Platform. Generate blogs, social media content, and marketing copy with 60+ AI tools. Features web research, SEO optimization, and multi-language support. Generate Text, Image, Audio. Content planning & Brainstorming. Open Source AI writer. (WIP)
 
 *   [Leon1207/Video-RAG-master](https://github.com/Leon1207/Video-RAG-master) - This is the official implementation of our paper "Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension"
 
