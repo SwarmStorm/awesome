@@ -718,7 +718,7 @@
 
 *   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 
-*   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+*   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform for VibeOps and infrastructure that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 
 *   [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model
 
