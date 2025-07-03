@@ -936,8 +936,6 @@
 
 *   [SwarmStorm/koku](https://github.com/SwarmStorm/koku) - An open source solution for cost management of cloud and hybrid cloud environments.
 
-*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
-
 *   [mjyc/awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) - A list of open-source, affordable, less-known, or visionary robotics projects.
 
 *   [loongOpen/OpenLoong-Hardware](https://github.com/loongOpen/OpenLoong-Hardware) - Hardware System for Humanoid Robots
@@ -1677,6 +1675,8 @@
 *   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
 
 *   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
+
+*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
 
 *   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
 
