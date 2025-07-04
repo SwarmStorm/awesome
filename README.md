@@ -5,8 +5,8 @@
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [C#](#c-1)
@@ -439,8 +439,6 @@
 ## Python
 
 *   [Ravi-Teja-konda/Surveillance\_Video\_Summarizer](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) - VLM driven tool that processes surveillance videos, extracts frames, and generates insightful annotations using a fine-tuned Florence-2 Vision-Language Model. Includes a Gradio-based interface for querying and analyzing video footage.
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
 
@@ -904,6 +902,56 @@
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
+## HTML
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+
+*   [lamthuyvo/tiktok-analysis-pipeline](https://github.com/lamthuyvo/tiktok-analysis-pipeline) -
+
+*   [onvif/specs](https://github.com/onvif/specs) - ONVIF Network Interface Specifications
+
+*   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+
+*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
+
+*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
+
+*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+
+*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
+
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+
+*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
+
+*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
+
+*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
+
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
+
+*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
+
+*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
+
+*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
+
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+
+*   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
+
+*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+
+*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
+
 ## miscellaneous
 
 *   [nikgraf/awesome-serverless-1](https://github.com/nikgraf/awesome-serverless-1) - Curated list of resources related to serverless architectures and the Serverless Framework
@@ -1181,54 +1229,6 @@
 *   [grahamjenson/list\_of\_recommender\_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 
 *   [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
-
-## HTML
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
-
-*   [lamthuyvo/tiktok-analysis-pipeline](https://github.com/lamthuyvo/tiktok-analysis-pipeline) -
-
-*   [onvif/specs](https://github.com/onvif/specs) - ONVIF Network Interface Specifications
-
-*   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-
-*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-
-*   [ppzhenghua/FakeReviewDetectionSystem-FrontEnd](https://github.com/ppzhenghua/FakeReviewDetectionSystem-FrontEnd) -
-
-*   [zuramai/mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
-
-*   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
-
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-
-*   [kikkia/NeuralHashApi](https://github.com/kikkia/NeuralHashApi) - Basic http api to run neural hash on a given image and return the result
-
-*   [somanath-goudar/html-css-projects](https://github.com/somanath-goudar/html-css-projects) -
-
-*   [SanDiegoCodeSchool/lti-node-example](https://github.com/SanDiegoCodeSchool/lti-node-example) - Example of an LTI 1.3 Tool Provider
-
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
-
-*   [SAMMISolutions/SAMMI-Official](https://github.com/SAMMISolutions/SAMMI-Official) - Official SAMMI download
-
-*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
-
-*   [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-
-*   [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
-
-*   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-*   [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 
 ## C++
 
