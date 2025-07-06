@@ -1470,7 +1470,7 @@
 
 *   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
 
-*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
+*   [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ Open-source JavaScript library for safe, ethical WhatsApp testing and automation. Automate conversations, simulate interactions, and test media sending and receiving.
 
 *   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 
