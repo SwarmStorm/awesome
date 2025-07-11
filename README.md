@@ -1246,6 +1246,8 @@
 
 *   [Victor-Haefner/telerobi](https://github.com/Victor-Haefner/telerobi) - Firmware and server application for DIY telepresence robot
 
+*   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+
 *   [loco-3d/crocoddyl](https://github.com/loco-3d/crocoddyl) - Crocoddyl is an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms
 
 *   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
@@ -2043,8 +2045,6 @@
 ## Zig
 
 *   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
-
-*   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 
 ## Ruby
 
