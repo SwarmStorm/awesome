@@ -568,7 +568,7 @@
 
 *   [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper) - Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
-*   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
+*   [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - \[ICCV 2025] LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 
 *   [LLaVA-VL/LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
 
