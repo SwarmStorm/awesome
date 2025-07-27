@@ -1724,7 +1724,7 @@
 
 ## Rust
 
-*   [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+*   [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 
 *   [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 
@@ -1968,7 +1968,7 @@
 
 *   [HoussemDellai/github-actions-course](https://github.com/HoussemDellai/github-actions-course) - Samples for Github Actions DevOps pipelines and workflows
 
-*   [benallfree/pocketpages](https://github.com/benallfree/pocketpages) - Server-Side pages for PocketBase
+*   [benallfree/pocketpages](https://github.com/benallfree/pocketpages) - Multi Page App (MPA) framework for PocketBase
 
 *   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 
