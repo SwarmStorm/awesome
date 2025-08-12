@@ -1234,7 +1234,7 @@
 
 *   [PR-Pilot-AI/smart-workflows](https://github.com/PR-Pilot-AI/smart-workflows) - An open source collection of agentic Github workflows
 
-*   [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs.
+*   [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 \[TCSVT 2025] Latest Papers, Codes and Datasets on Vid-LLMs.
 
 *   [junhua-l/Awesome-Video-Streaming-and-Analysis](https://github.com/junhua-l/Awesome-Video-Streaming-and-Analysis) - 🔥🔥🔥 Latest works on video streaming/processing/analysis
 
