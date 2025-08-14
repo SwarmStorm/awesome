@@ -356,8 +356,6 @@
 
 *   [jeremydaly/lambda-warmer](https://github.com/jeremydaly/lambda-warmer) - A module to optimize AWS Lambda function cold starts
 
-*   [hayderux/electron-flutter](https://github.com/hayderux/electron-flutter) - A minimal electron application with flutter & dart
-
 *   [L-U-M-E-N/lumen-desktop](https://github.com/L-U-M-E-N/lumen-desktop) - L.U.M.E.N. is a simple and modulable personal assistant built on Electron.
 
 *   [L-U-M-E-N/lumen-server](https://github.com/L-U-M-E-N/lumen-server) -
@@ -827,6 +825,8 @@
 *   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
 
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+
+*   [ardoq/rxjs-devtools](https://github.com/ardoq/rxjs-devtools) - RxJS DevTools for debugging streams
 
 ## Python
 
