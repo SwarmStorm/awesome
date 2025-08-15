@@ -902,8 +902,6 @@
 
 *   [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) -
 
-*   [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption) - JoyCaption is an image captioning Visual Language Model (VLM) being built from the ground up as a free, open, and uncensored model for the community to use in training Diffusion models.
-
 *   [CircuitLaunch/CoLab-Reachy](https://github.com/CircuitLaunch/CoLab-Reachy) - Reachy Humanoid Robot (Pollen Robotics)
 
 *   [riad-azz/tiktok-saver](https://github.com/riad-azz/tiktok-saver) - TikTok Saver is a SaaS (Software as a service) for downloading and saving Tiktok videos with the highest quality and no watermark.
@@ -1014,7 +1012,7 @@
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine that can answer questions over large scale structured and unstructured data.
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine that can answer natural language questions over large scale structured and unstructured data.
 
 *   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
@@ -1857,6 +1855,8 @@
 *   [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 
 *   [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+*   [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption) - JoyCaption is an image captioning Visual Language Model (VLM) being built from the ground up as a free, open, and uncensored model for the community to use in training Diffusion models.
 
 *   [yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions](https://github.com/yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions) - TalentOptimize: An AI-powered recruitment solutions
 
