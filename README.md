@@ -770,6 +770,8 @@
 
 *   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
 
+*   [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
+
 *   [drudge/n8n-nodes-netsuite](https://github.com/drudge/n8n-nodes-netsuite) - n8n node for interacting with NetSuite using SuiteTalk REST Web Services
 
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -1173,8 +1175,6 @@
 *   [victorporof/Tilt](https://github.com/victorporof/Tilt) - Tilt: a WebGL-based 3D visualization of a Webpage
 
 *   [simov/screenshot-capture](https://github.com/simov/screenshot-capture) - Screenshot Capture / Browser Extension
-
-*   [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 
 *   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 
