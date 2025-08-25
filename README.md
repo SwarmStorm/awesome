@@ -838,7 +838,7 @@
 
 *   [paullouisageneau/telebot](https://github.com/paullouisageneau/telebot) - 3D-printed WebRTC-controlled telepresence robot
 
-*   [nadchif/dnSurfer](https://github.com/nadchif/dnSurfer) - A web browser that surfs entirely over DNS
+*   [nadchif/dnSurfer](https://github.com/nadchif/dnSurfer) - A DNS-only web browser — browse even when HTTP(S) is blocked.
 
 *   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 
