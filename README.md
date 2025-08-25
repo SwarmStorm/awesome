@@ -514,7 +514,7 @@
 
 *   [lef-fan/aria](https://github.com/lef-fan/aria) - A local and uncensored AI entity.
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
 
 *   [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) - NewsFeel: A Sentiment Analysis Tool for Financial News
 
