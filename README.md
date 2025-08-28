@@ -114,7 +114,7 @@
 
 *   [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
 
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG engine based on deep document understanding. Let RAG empower your data.
 
 *   [hrishioa/wasm-ai](https://github.com/hrishioa/wasm-ai) - Vercel and web-llm template to run wasm models directly in the browser.
 
