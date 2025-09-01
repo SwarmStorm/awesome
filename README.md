@@ -32,7 +32,7 @@
 *   [Blade](#blade)
 *   [TeX](#tex)
 *   [Swift](#swift)
-*   [Smarty](#smarty)
+*   [Mustache](#mustache)
 *   [R](#r)
 *   [Matlab](#matlab)
 *   [Scala](#scala)
@@ -2072,7 +2072,7 @@
 
 *   [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 
-## Smarty
+## Mustache
 
 *   [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 
