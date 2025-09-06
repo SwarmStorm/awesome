@@ -1724,7 +1724,7 @@
 
 *   [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
 
-*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
+*   [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - High-performance AI infrastructure
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
