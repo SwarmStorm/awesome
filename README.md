@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
 *   [TypeScript](#typescript)
 *   [C](#c)
 *   [Python](#python)
@@ -13,7 +14,6 @@
 *   [Go](#go)
 *   [C++](#c-1)
 *   [C#](#c-2)
-*   [MDX](#mdx)
 *   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Perl](#perl)
@@ -41,6 +41,12 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## MDX
+
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+
+*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
 ## TypeScript
 
@@ -1604,8 +1610,6 @@
 
 *   [leigholiver/commit-with-deploy-key](https://github.com/leigholiver/commit-with-deploy-key) - Action to commit a file/directory to another repo using a deploy key
 
-*   [TryItOnline/tryitonline](https://github.com/TryItOnline/tryitonline) - The Try It Online family of online interpreters.
-
 ## Java
 
 *   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
@@ -1801,10 +1805,6 @@
 *   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 
 *   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
-
-## MDX
-
-*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
 ## Rust
 
