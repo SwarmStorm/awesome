@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [MDX](#mdx)
-*   [C](#c)
+*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Java](#java)
 *   [Go](#go)
-*   [C++](#c-1)
-*   [C#](#c-2)
+*   [C++](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Perl](#perl)
 *   [Dockerfile](#dockerfile)
@@ -41,6 +41,32 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## C\#
+
+*   [alnkesq/AppViewLite](https://github.com/alnkesq/AppViewLite) - A Bluesky appview focused on low resource consumption
+
+*   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
+
+*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
+
+*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
+
+*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
+
+*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
+
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+
+*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
+
+*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Shell
 
@@ -883,8 +909,6 @@
 *   [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 
 ## Rust
 
@@ -1817,30 +1841,6 @@
 *   [HSpear/virtual-audio-wire](https://github.com/HSpear/virtual-audio-wire) - The Virtual Audio Wire (VAW) is an open source Virtual Audio Device (VAD) project its function is to provide Virtual Audio Devices for multimedia applications.
 
 *   [jackaudio/jack2](https://github.com/jackaudio/jack2) - jack2 codebase
-
-## C\#
-
-*   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
-
-*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
-
-*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
-
-*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
-
-*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
-
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-
-*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
-
-*   [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 
 ## Jupyter Notebook
 
