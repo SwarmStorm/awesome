@@ -476,7 +476,7 @@
 
 *   [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-Powered Multimodal Content Creation & Digital Marketing Platform. DIY AI Copilot, personalization on connected website, social platforms. RAG, SERP Factual, SEO optimization & multilingual support. Open Source, AI Content plan, Generate, Publish, Engage, Analyze, ReMarket. (WIP)
 
-*   [Leon1207/Video-RAG-master](https://github.com/Leon1207/Video-RAG-master) - This is the official implementation of our paper "Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension"
+*   [Leon1207/Video-RAG-master](https://github.com/Leon1207/Video-RAG-master) - ✨✨\[NeurIPS 2025] This is the official implementation of our paper "Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension"
 
 *   [KazKozDev/video-analyser](https://github.com/KazKozDev/video-analyser) - ⚡ The YouTube Video Analyzer Pro brings AI-powered analysis capabilities to your fingertips, offering deep insights for content creators and marketers.
 
@@ -486,7 +486,7 @@
 
 *   [lef-fan/aria](https://github.com/lef-fan/aria) - A local and uncensored AI entity.
 
-*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
+*   [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) - \[NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
 
 *   [jmcdice/newsfeel](https://github.com/jmcdice/newsfeel) - NewsFeel: A Sentiment Analysis Tool for Financial News
 
@@ -1702,7 +1702,7 @@
 
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 
 *   [kubeopsskills/acr-mirror](https://github.com/kubeopsskills/acr-mirror) - Azure Container Registry Mirror Tool
 
