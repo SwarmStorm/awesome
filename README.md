@@ -52,7 +52,7 @@
 
 *   [aomukai/Writingway](https://github.com/aomukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable prompts, a project structure view, and a compendium for worldbuilding. Link to our Discord server: https://discord.gg/xkkGaRFXNX
 
-*   [gr8monk3ys/blog-AI](https://github.com/gr8monk3ys/blog-AI) - An AI content generation tool that to automatically create SEO optimized blog posts and books. Generate content in MDX format for blogs and DOCX for books, made for writers.
+*   [gr8monk3ys/blog-AI](https://github.com/gr8monk3ys/blog-AI) - An AI content generation tool that to automatically create blog posts and books, made for writers.
 
 *   [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) - Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.
 
