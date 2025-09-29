@@ -72,6 +72,8 @@
 
 *   [Ravi-Teja-konda/Surveillance\_Video\_Summarizer](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) - VLM driven tool that processes surveillance videos, extracts frames, and generates insightful annotations using a fine-tuned Florence-2 Vision-Language Model. Includes a Gradio-based interface for querying and analyzing video footage.
 
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
 *   [devnen/Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
 
 *   [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -1749,8 +1751,6 @@
 ## HTML
 
 *   [yeemachine/kalidoface-3d](https://github.com/yeemachine/kalidoface-3d) - Face and Body Tracking for VRM 3D models on the web.
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
