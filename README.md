@@ -288,6 +288,8 @@
 
 *   [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
 
+*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+
 *   [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -
 
 *   [akshatvg/Spam-Slayer](https://github.com/akshatvg/Spam-Slayer) - Spam Slayer is a web app used to detect deceptions from Amazon products' reviews. Users can copy a link to the product and paste directly paste it to my page. Using my trained deep learning model, Spam Slayer will distinguish between true/fake reviews and show them an adjusted rating without fake reviews.
@@ -945,8 +947,6 @@
 *   [danawoodman/sveltekit-auth-example](https://github.com/danawoodman/sveltekit-auth-example) - An example SvelteKit app implementing a simple authentication system.
 
 *   [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-
-*   [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 *   [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 
