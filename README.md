@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Go](#go)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
@@ -26,7 +27,6 @@
 *   [Pug](#pug)
 *   [HCL](#hcl)
 *   [D2](#d2)
-*   [Svelte](#svelte)
 *   [Zig](#zig)
 *   [Ruby](#ruby)
 *   [Blade](#blade)
@@ -41,6 +41,46 @@
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
+
+## Svelte
+
+*   [coracle-social/coracle](https://github.com/coracle-social/coracle) - An experimental Nostr client focused on unlocking the full potential of multiple relays. Browse, filter, zap, and create custom feeds to create a curated Nostr experience.
+
+*   [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
+
+*   [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
+
+*   [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
+
+*   [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
+
+*   [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
+
+*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
+
+*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+
+*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
+
+*   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
+
+*   [one-aalam/svelte-starter-kit](https://github.com/one-aalam/svelte-starter-kit) - Svelte with brilliant bells and useful whistles
+
+*   [boostvolt/svelte-todo](https://github.com/boostvolt/svelte-todo) - Simple todo site built with Svelte-Kit and Supabase
+
+*   [freddyshim/super-svelte-stack](https://github.com/freddyshim/super-svelte-stack) - Full-stack web app template made with SvelteKit, TailwindCSS, Auth.js, Prisma, PostgreSQL, AWS SES
+
+*   [xulioc/sveltekit-supabase-dashboard](https://github.com/xulioc/sveltekit-supabase-dashboard) - Dashboard inspired by Supabase UI  and made with SvelteKit as frontend and Supabase as backend.
+
+*   [vhscom/svelte-headlessui-starter](https://github.com/vhscom/svelte-headlessui-starter) - 🚀 Launch your next Svelte app using Headless UI. Mirror of Svelte Headless UI Starter on Codeberg. :point\_down:
+
+*   [mylastore/svelte-kit](https://github.com/mylastore/svelte-kit) -
+
+*   [illright/attractions](https://github.com/illright/attractions) - \[DEPRECATED, see readme] A pretty cool UI kit for Svelte
+
+*   [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Go
 
@@ -1746,8 +1786,6 @@
 
 *   [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
 
-*   [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-
 ## HTML
 
 *   [yeemachine/kalidoface-3d](https://github.com/yeemachine/kalidoface-3d) - Face and Body Tracking for VRM 3D models on the web.
@@ -2005,44 +2043,6 @@
 ## D2
 
 *   [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
-
-## Svelte
-
-*   [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Sample SvelteKit app with PocketBase integration
-
-*   [bestguy/sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte
-
-*   [spinspire/pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - a starter project to build a SvelteKit frontend with PocketBase backend
-
-*   [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
-
-*   [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
-
-*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
-
-*   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-
-*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
-
-*   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
-
-*   [one-aalam/svelte-starter-kit](https://github.com/one-aalam/svelte-starter-kit) - Svelte with brilliant bells and useful whistles
-
-*   [boostvolt/svelte-todo](https://github.com/boostvolt/svelte-todo) - Simple todo site built with Svelte-Kit and Supabase
-
-*   [freddyshim/super-svelte-stack](https://github.com/freddyshim/super-svelte-stack) - Full-stack web app template made with SvelteKit, TailwindCSS, Auth.js, Prisma, PostgreSQL, AWS SES
-
-*   [xulioc/sveltekit-supabase-dashboard](https://github.com/xulioc/sveltekit-supabase-dashboard) - Dashboard inspired by Supabase UI  and made with SvelteKit as frontend and Supabase as backend.
-
-*   [vhscom/svelte-headlessui-starter](https://github.com/vhscom/svelte-headlessui-starter) - 🚀 Launch your next Svelte app using Headless UI. Mirror of Svelte Headless UI Starter on Codeberg. :point\_down:
-
-*   [mylastore/svelte-kit](https://github.com/mylastore/svelte-kit) -
-
-*   [illright/attractions](https://github.com/illright/attractions) - \[DEPRECATED, see readme] A pretty cool UI kit for Svelte
-
-*   [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Zig
 
