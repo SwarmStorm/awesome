@@ -1346,7 +1346,7 @@
 
 *   [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) - ⚡️ Quickly generate a disposable email straight from terminal.
 
-*   [Cloudable-dev/netgoat](https://github.com/Cloudable-dev/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
+*   [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) - A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!
 
 *   [paullouisageneau/telebot](https://github.com/paullouisageneau/telebot) - 3D-printed WebRTC-controlled telepresence robot
 
