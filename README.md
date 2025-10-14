@@ -337,8 +337,6 @@
 
 *   [nadchif/dnSurfer](https://github.com/nadchif/dnSurfer) - A DNS-only web browser — browse even when HTTP(S) is blocked.
 
-*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-
 *   [BreeeZe/rpos](https://github.com/BreeeZe/rpos) - Raspberry Pi Onvif Server
 
 *   [zjp-shadow/CharacterGen](https://github.com/zjp-shadow/CharacterGen) - \[SIGGRAPH'24] CharacterGen: Efficient 3D Character Generation from Single Images with Multi-View Pose Canonicalization
@@ -732,6 +730,8 @@
 *   [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 
 *   [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
+
+*   [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
