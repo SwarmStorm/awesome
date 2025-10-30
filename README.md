@@ -1193,7 +1193,7 @@
 
 *   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
 
-*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
+*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect Glassworm & trojan source attacks that employ unicode bidi attacks to inject malicious code
 
 *   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 
