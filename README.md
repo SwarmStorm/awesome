@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Go](#go)
 *   [Java](#java)
 *   [Python](#python)
@@ -11,7 +12,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Svelte](#svelte)
 *   [Dockerfile](#dockerfile)
-*   [C#](#c)
 *   [Shell](#shell)
 *   [MDX](#mdx)
 *   [C](#c-1)
@@ -40,6 +40,32 @@
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Elixir](#elixir)
+
+## C\#
+
+*   [workleap/wl-eventgrid-emulator](https://github.com/workleap/wl-eventgrid-emulator) - An open source emulator for Azure Event Grid that supports the push and pull delivery models, distributed as a Docker image.
+
+*   [alnkesq/AppViewLite](https://github.com/alnkesq/AppViewLite) - A Bluesky appview focused on low resource consumption
+
+*   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
+
+*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 100+ native components including DataGrid, Scheduler, Charts, and advanced theming with full support for Material Design and Fluent UI.
+
+*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
+
+*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
+
+*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
+
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+
+*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+
+*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+
+*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 
 ## Go
 
@@ -937,8 +963,6 @@
 
 *   [nolanlawson/blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-
 ## Rust
 
 *   [P3GLEG/tauri-plugin-mcp](https://github.com/P3GLEG/tauri-plugin-mcp) - Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs.
@@ -1712,30 +1736,6 @@
 *   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:full image
 
 *   [gezp/docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop) - Docker Image for Ubuntu Desktop which support HW GPU accelerated GUI apps. you can access the Container with ssh or remote desktop,  just like Cloud VM.
-
-## C\#
-
-*   [alnkesq/AppViewLite](https://github.com/alnkesq/AppViewLite) - A Bluesky appview focused on low resource consumption
-
-*   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
-
-*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 100+ native components including DataGrid, Scheduler, Charts, and advanced theming with full support for Material Design and Fluent UI.
-
-*   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
-
-*   [dgokcin/dotnet-cursor-debugging-with-breakpoints](https://github.com/dgokcin/dotnet-cursor-debugging-with-breakpoints) -
-
-*   [saharsh-samples/dotnet-k8s-helm-cicd](https://github.com/saharsh-samples/dotnet-k8s-helm-cicd) - Example of a multi-branch CICD pipeline for a ASP.NET Web API 2.2 App using Gitflow branching model and deployed to Kubernetes clusters using helm.
-
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-
-*   [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
-
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-
-*   [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-
-*   [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets makes web-based desktop widgets easy to develop. Using HTML, CSS, and JavaScript create your own Windows 11 widgets on the fly.
 
 ## Shell
 
