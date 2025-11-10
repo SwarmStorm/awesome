@@ -501,7 +501,7 @@
 
 *   [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
 
-*   [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS.
+*   [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
 
 *   [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 
