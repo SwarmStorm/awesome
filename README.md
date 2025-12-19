@@ -454,6 +454,8 @@
 
 *   [Michele0303/tiktok-live-recorder](https://github.com/Michele0303/tiktok-live-recorder) - 🎥✨ A TikTok live streaming recorder tool written in Python. Capture and relive your favorite TikTok moments effortlessly. 🎥✨
 
+*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+
 *   [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1391,8 +1393,6 @@
 *   [SidebarJS/sidebarjs](https://github.com/SidebarJS/sidebarjs) - Create mobile sidebar/sidenav experiance in pure javascript
 
 *   [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
-
-*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 
 *   [kanongil/node-hlsrecord](https://github.com/kanongil/node-hlsrecord) - Record HTTP Live Streaming (HLS) media streams.
 
