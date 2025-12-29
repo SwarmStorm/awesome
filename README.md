@@ -58,6 +58,8 @@
 
 *   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
 
 *   [guerra2fernando/libriscribe](https://github.com/guerra2fernando/libriscribe) - Libriscribe is an AI-powered open-source book creation system. The system is designed to help you  write your book, from initial concept to a polished manuscript. It uses a multi-agent approach, where specialized AI agents collaborate to handle different stages of the book creation process.
@@ -435,8 +437,6 @@
 *   [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
 
 *   [live-codes/livecodes](https://github.com/live-codes/livecodes) - A Code Playground That Just Works!
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 *   [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 
