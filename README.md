@@ -22,7 +22,7 @@
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [AppleScript](#applescript)
-*   [Scheme](#scheme)
+*   [Tree-sitter Query](#tree-sitter-query)
 *   [CSS](#css)
 *   [XSLT](#xslt)
 *   [Pug](#pug)
@@ -1996,7 +1996,7 @@
 
 *   [jeongwhanchoi/convert-ppt-to-pdf](https://github.com/jeongwhanchoi/convert-ppt-to-pdf) - Batch convert ppt files to pdf files by Automator on MacOS
 
-## Scheme
+## Tree-sitter Query
 
 *   [malteehrlen/tilemancer](https://github.com/malteehrlen/tilemancer) - GIMP script to generate sprite sheets
 
