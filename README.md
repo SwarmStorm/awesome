@@ -767,7 +767,7 @@
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 
 *   [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 
@@ -934,6 +934,8 @@
 *   [baileytec-labs/llama-on-lambda](https://github.com/baileytec-labs/llama-on-lambda) - Deploy llama.cpp compatible Generative AI LLMs on AWS Lambda!
 
 *   [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 
@@ -1920,8 +1922,6 @@
 *   [illright/attractions](https://github.com/illright/attractions) - \[DEPRECATED, see readme] A pretty cool UI kit for Svelte
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Dockerfile
 
