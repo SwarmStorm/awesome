@@ -1225,7 +1225,7 @@
 
 *   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
-*   [linsa-io/books](https://github.com/linsa-io/books) - Awesome Books
+*   [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 
 *   [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
