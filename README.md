@@ -45,6 +45,8 @@
 
 ## TypeScript
 
+*   [pixiv/three-vrm](https://github.com/pixiv/three-vrm) - Use VRM on Three.js
+
 *   [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
 
 *   [sanidhyy/slack-clone](https://github.com/sanidhyy/slack-clone) - Collaborate with your team using real-time messaging, rich text editing, and emoji support in this Slack-like app built with Next.js, Convex, and Shadcn UI.
@@ -902,8 +904,6 @@
 *   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
 
 *   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
-
-*   [73rhodes/node-python](https://github.com/73rhodes/node-python) - Communicate with a long-running Python child process from NodeJS.
 
 ## Svelte
 
