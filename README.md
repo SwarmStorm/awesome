@@ -87,6 +87,8 @@
 
 *   [live-codes/livecodes](https://github.com/live-codes/livecodes) - A Code Playground That Just Works!
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -688,8 +690,6 @@
 *   [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) - PDF to CSV conversion for your bank statements
 
 *   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 *   [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
 
@@ -1481,6 +1481,8 @@
 
 *   [HighwayThree/jira-upload-deployment-info](https://github.com/HighwayThree/jira-upload-deployment-info) -
 
+*   [BetaHuhn/feedback-js](https://github.com/BetaHuhn/feedback-js) - 📝Simple modern feedback modal for any website
+
 ## Svelte
 
 *   [GauthierNelkinsky/ShipShipShip](https://github.com/GauthierNelkinsky/ShipShipShip) - A lightweight, self-hostable changelog and roadmap web application that lets you share product updates with your community and gather feedback through voting on upcoming features. Built with SvelteKit and Go.
@@ -1726,8 +1728,6 @@
 *   [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 
 *   [mansueli/Supa-Backup](https://github.com/mansueli/Supa-Backup) - Github Action for Supabase Backups
-
-*   [Alan-Rock-GS/GpuScript](https://github.com/Alan-Rock-GS/GpuScript) - GpuScript allows you to write C# programs that run at supercomputer speeds on a single GPU. Learn it in 30 minutes. Write & debug large and complex projects specifically designed to run on the GPU.
 
 *   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 
