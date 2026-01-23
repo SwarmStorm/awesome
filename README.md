@@ -1115,7 +1115,7 @@
 
 *   [M3-org/CharacterStudio](https://github.com/M3-org/CharacterStudio) - Open source web based custom VRM avatar creation platform
 
-*   [OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator) - ChatGPT powered SEO content creator plugin for WordPress using the GPT-3, GPT-3.5 and GPT-4 models
+*   [OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator](https://github.com/OpaceDigitalAgency/ai-scribe-chat-gpt-content-creator) - A WordPress plugin that uses the OpenAI API (GPT-4.5, o3) to generate SEO-optimized, humanized, long-form content and images.
 
 *   [aws-samples/amazon-rekognition-video-analyzer](https://github.com/aws-samples/amazon-rekognition-video-analyzer) - A working prototype for capturing frames off of a live MJPEG video stream, identifying objects in near real-time using deep learning, and triggering actions based on an objects watch list.
 
