@@ -1087,7 +1087,7 @@
 
 ## JavaScript
 
-*   [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+*   [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 
 *   [collidingScopes/particular-drift](https://github.com/collidingScopes/particular-drift) - Turn images into flowing particle animations. Built with js, webgl / glsl, and html5 canvas
 
