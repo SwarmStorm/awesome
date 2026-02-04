@@ -399,8 +399,6 @@
 
 *   [nikivanov/watney](https://github.com/nikivanov/watney) - Watney is a low-cost 3D-printable FPV rover
 
-*   [sixem/tiktok-download-buttons](https://github.com/sixem/tiktok-download-buttons) - Adds download buttons to the web version of TikTok
-
 *   [ArthurBeaulieu/ORlyGenerator](https://github.com/ArthurBeaulieu/ORlyGenerator) - O'Reilly books parodic meme generator! You know it right?
 
 *   [flatlogic/react-native-starter](https://github.com/flatlogic/react-native-starter) - 🚀A powerful react native starter template that bootstraps development of your mobile application
@@ -860,6 +858,8 @@
 *   [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
 
 *   [hrishioa/wasm-ai](https://github.com/hrishioa/wasm-ai) - Vercel and web-llm template to run wasm models directly in the browser.
+
+*   [sixem/tiktok-download-buttons](https://github.com/sixem/tiktok-download-buttons) - Adds download buttons to the web version of TikTok
 
 *   [mckaywrigley/r1-automated-pr-example](https://github.com/mckaywrigley/r1-automated-pr-example) -
 
