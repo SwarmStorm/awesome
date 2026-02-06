@@ -751,6 +751,8 @@
 
 *   [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 
+*   [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+
 *   [collidingScopes/particular-drift](https://github.com/collidingScopes/particular-drift) - Turn images into flowing particle animations. Built with js, webgl / glsl, and html5 canvas
 
 *   [clowerweb/tts-studio](https://github.com/clowerweb/tts-studio) - Test and compare browser-based TTS models!
@@ -1158,8 +1160,6 @@
 *   [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
 
 *   [sanidhyy/slack-clone](https://github.com/sanidhyy/slack-clone) - Collaborate with your team using real-time messaging, rich text editing, and emoji support in this Slack-like app built with Next.js, Convex, and Shadcn UI.
-
-*   [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 
 *   [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 
