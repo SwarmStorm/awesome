@@ -2023,8 +2023,6 @@
 
 *   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 ## C
 
 *   [NVIDIA-AI-IOT/Deepstream-Dewarper-App](https://github.com/NVIDIA-AI-IOT/Deepstream-Dewarper-App) - This project demonstrate how to infer and track from a 360 videos by using the dewarper plugin.
@@ -2068,6 +2066,8 @@
 *   [16Yongjin/html-games](https://github.com/16Yongjin/html-games) - Games built in one html file
 
 *   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
