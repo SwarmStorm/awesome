@@ -1631,7 +1631,7 @@
 
 *   [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 
-*   [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+*   [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 
 *   [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 
