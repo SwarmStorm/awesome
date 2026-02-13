@@ -1697,7 +1697,7 @@
 
 *   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 
-*   [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
+*   [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record manager
 
 *   [sgreben/slack-emoji-upload](https://github.com/sgreben/slack-emoji-upload) - Slack emoji uploader, CLI. single binary, no dependencies. linux, osx, windows.
 
