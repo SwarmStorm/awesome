@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [PRITHIVSAKTHIUR/TRELLIS.2-Text-to-3D](https://github.com/PRITHIVSAKTHIUR/TRELLIS.2-Text-to-3D) - TRELLIS.2-Text-to-3D is an end-to-end Text-to-3D and Image-to-3D generation app that enables users to create high-quality 3D GLB assets either by generating an image from a text prompt or by uploading an existing image, powered by Z-Image-Turbo and the TRELLIS.2 multi-stage pipeline.
+
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 
 *   [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
@@ -2164,8 +2166,6 @@
 *   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [supaflare/supaflare](https://github.com/supaflare/supaflare) - URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 
 ## PHP
 
