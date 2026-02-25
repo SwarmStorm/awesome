@@ -307,6 +307,8 @@
 
 *   [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 
+*   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+
 *   [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
@@ -684,8 +686,6 @@
 *   [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 
 *   [mansueli/Supa-Backup](https://github.com/mansueli/Supa-Backup) - Github Action for Supabase Backups
-
-*   [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 
 *   [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
 
