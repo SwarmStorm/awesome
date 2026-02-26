@@ -1683,6 +1683,8 @@
 
 *   [pwafire/pwafire](https://github.com/pwafire/pwafire) - Progressive Web Apps API of APIs
 
+*   [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
+
 ## Rust
 
 *   [restsend/rustpbx](https://github.com/restsend/rustpbx) - A PBX written by rust
@@ -2112,8 +2114,6 @@
 *   [fpgaminer/joycaption](https://github.com/fpgaminer/joycaption) - JoyCaption is an image captioning Visual Language Model (VLM) being built from the ground up as a free, open, and uncensored model for the community to use in training Diffusion models.
 
 *   [yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions](https://github.com/yash-raj202134/TalentOptimize-AI-Powered-Recruitment-Solutions) - TalentOptimize: An AI-powered recruitment solutions
-
-*   [mm2260/data-mining-and-AI](https://github.com/mm2260/data-mining-and-AI) - A collection of data mining and AI related project work
 
 *   [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
