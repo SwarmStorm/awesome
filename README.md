@@ -167,6 +167,8 @@
 
 *   [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
 
+*   [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - Web Server for Chrome (2026 Relaunch)
+
 *   [hrishioa/wasm-ai](https://github.com/hrishioa/wasm-ai) - Vercel and web-llm template to run wasm models directly in the browser.
 
 *   [sixem/tiktok-download-buttons](https://github.com/sixem/tiktok-download-buttons) - Adds download buttons to the web version of TikTok
@@ -1293,7 +1295,7 @@
 
 *   [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 
-*   [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+*   [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 *   [collidingScopes/particular-drift](https://github.com/collidingScopes/particular-drift) - Turn images into flowing particle animations. Built with js, webgl / glsl, and html5 canvas
 
@@ -1344,8 +1346,6 @@
 *   [catalinmiron/react-native-tap-tile-game](https://github.com/catalinmiron/react-native-tap-tile-game) - An awesome TapTile Game built usign create-react-native-app
 
 *   [bberak/react-native-game-engine](https://github.com/bberak/react-native-game-engine) - A lightweight Game Engine for React Native 🕹⚡🎮
-
-*   [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)
 
 *   [nikivanov/watney](https://github.com/nikivanov/watney) - Watney is a low-cost 3D-printable FPV rover
 
