@@ -512,6 +512,8 @@
 
 *   [pwafire/pwafire](https://github.com/pwafire/pwafire) - Progressive Web Apps API of APIs
 
+*   [neondatabase/yc-idea-matcher](https://github.com/neondatabase/yc-idea-matcher) - Submit your idea and get a list of similar ideas that YCombinator has invested in in the past.
+
 ## Shell
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1779,8 +1781,6 @@
 *   [sausheong/waldo](https://github.com/sausheong/waldo) - Waldo is a command-line AI assistant that wraps around local LLMs, Google's Gemini models and OpenAI's GPT models
 
 *   [mchmarny/s3cme](https://github.com/mchmarny/s3cme) - Template Go app repo with local test/lint/build/vulnerability check workflow, and on tag image test/build/release pipelines, with ko generative SBOM, cosign attestation, and SLSA build provenance
-
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 *   [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 
