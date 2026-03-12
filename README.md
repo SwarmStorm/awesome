@@ -834,6 +834,8 @@
 
 *   [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
+*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
+
 *   [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 
 *   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
@@ -1871,8 +1873,6 @@
 *   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 *   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-
-*   [nstuyvesant/sveltekit-auth-example](https://github.com/nstuyvesant/sveltekit-auth-example) - SvelteKit Authentication Example
 
 *   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 
