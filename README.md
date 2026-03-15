@@ -94,6 +94,8 @@
 
 *   [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 
+*   [dappros/ethora](https://github.com/dappros/ethora) - Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
+
 *   [sobstel/hydropuzzle](https://github.com/sobstel/hydropuzzle) - Surreal tech adventure game for iOS and Android. Built with React Native.
 
 *   [expo/fluxpybird](https://github.com/expo/fluxpybird) - some ideas involving games and Redux
@@ -561,8 +563,6 @@
 *   [AsyncFuncAI/rabbitholes](https://github.com/AsyncFuncAI/rabbitholes) - Open Source Rabbitholes Ai
 
 *   [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-
-*   [dappros/ethora](https://github.com/dappros/ethora) - Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
 
 *   [EvanBacon/Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road) - 🐥🚙 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. 🐔
 
