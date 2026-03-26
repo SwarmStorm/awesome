@@ -118,6 +118,8 @@
 
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
+*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
+
 *   [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model
 
 *   [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
@@ -1366,8 +1368,6 @@
 
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-
 *   [kubeopsskills/acr-mirror](https://github.com/kubeopsskills/acr-mirror) - Azure Container Registry Mirror Tool
 
 *   [0x2142/frigate-notify](https://github.com/0x2142/frigate-notify) - Event notifications for a standalone Frigate NVR instance
@@ -1900,7 +1900,7 @@
 
 *   [TREE-Ind/Unreal-Agent](https://github.com/TREE-Ind/Unreal-Agent) - A collection of Unreal Engine 5 Editor Utility widgets powered by GPT3/4
 
-*   [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - An Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Includes OpenAI's GPT, Deepseek, Claude Sonnet/Opus APIs, Google Gemini 3, Alibaba Qwen, Kimi, and Grok 4.1, with plans to add TTS, Elevenlabs, Inworld, OpenRouter, Groq, hunyuan3d, fal, Dashscope, UnrealClaude soon. UnrealMCP is also here!! Automatic scene generation from AI!!
+*   [prajwalshettydev/UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) - Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. Includes OpenAI's GPT, Deepseek, Claude Sonnet/Opus APIs, Google Gemini 3, Alibaba Qwen, Kimi, and Grok 4.1, with plans to add TTS, Elevenlabs, Inworld, OpenRouter, Groq, GLM, seedream hunyuan3d, fal, Dashscope, Rodin, Meshy, Tripo, UnrealClaude soon. UnrealMCP is also here!!
 
 *   [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
