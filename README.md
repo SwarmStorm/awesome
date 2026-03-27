@@ -46,6 +46,8 @@
 
 ## Python
 
+*   [foundation-model-stack/foundation-model-stack](https://github.com/foundation-model-stack/foundation-model-stack) - 🚀 Collection of components for development, training, tuning, and inference of foundation models leveraging PyTorch native components.
+
 *   [nikmcfly/MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline) - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.
 
 *   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
@@ -871,8 +873,6 @@
 *   [ivythegreenest/Wenode](https://github.com/ivythegreenest/Wenode) - WebContainers, except it's a million times easier to use
 
 *   [CloneableApp/Cloneable](https://github.com/CloneableApp/Cloneable) - The best free, open source, all-in-one website downloader tool for offline browsing, archiving, and backups.
-
-*   [abhibagul/Wix-Clone](https://github.com/abhibagul/Wix-Clone) - Full functional Wix clone created in react. Has drag drop functionality along with animations.
 
 ## TypeScript
 
