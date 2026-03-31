@@ -120,8 +120,6 @@
 
 *   [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
-
 *   [MatteoFasulo/Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok) - From AI tools to TikTok video creation using FFMPEG, Microsoft Edge read aloud and OpenAI Whisper model
 
 *   [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
@@ -1365,6 +1363,8 @@
 *   [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 
 *   [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
+
+*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 
 *   [kubeopsskills/acr-mirror](https://github.com/kubeopsskills/acr-mirror) - Azure Container Registry Mirror Tool
 
