@@ -30,7 +30,6 @@
 *   [D2](#d2)
 *   [Zig](#zig)
 *   [Ruby](#ruby)
-*   [Blade](#blade)
 *   [TeX](#tex)
 *   [Swift](#swift)
 *   [Mustache](#mustache)
@@ -1098,6 +1097,8 @@
 *   [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 
 *   [tearoom6/QuickDrive2](https://github.com/tearoom6/QuickDrive2) - Chrome extension to provide quick access to your Google Drive files.
+
+*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 
@@ -2258,10 +2259,6 @@
 *   [pupilfirst/pupilfirst](https://github.com/pupilfirst/pupilfirst) - A learning management system (LMS) that lets you run an asynchronous online school, where learning is achieved through focused tasks, directed feedback, an iterative workflow, and community interaction.
 
 *   [homebrew-ffmpeg/homebrew-ffmpeg](https://github.com/homebrew-ffmpeg/homebrew-ffmpeg) - A homebrew tap for an ffmpeg formula with lots of options
-
-## Blade
-
-*   [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## TeX
 
