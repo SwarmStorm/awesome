@@ -440,6 +440,8 @@
 
 *   [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 
+*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
+
 *   [zerodytrash/TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) - Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
 
 *   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -1147,8 +1149,6 @@
 *   [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 
 *   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
-
-*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
 
 *   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect Glassworm & trojan source attacks that employ unicode bidi attacks to inject malicious code
 
