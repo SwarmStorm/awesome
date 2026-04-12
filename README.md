@@ -2006,7 +2006,7 @@
 
 *   [jonas-merkle/container-cloudflare-tunnel](https://github.com/jonas-merkle/container-cloudflare-tunnel) - A Docker Compose container setup for a Cloudflare tunnel.
 
-*   [hassio-addons/addon-grocy](https://github.com/hassio-addons/addon-grocy) - Grocy - Home Assistant Community Add-ons
+*   [hassio-addons/app-grocy](https://github.com/hassio-addons/app-grocy) - Grocy - Home Assistant Community Apps
 
 *   [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 
