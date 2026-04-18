@@ -1252,7 +1252,7 @@
 
 *   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 
-*   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Message manipulation and export tool for Discord. (Chrome/Firefox Extension)
+*   [prathercc/discrub-ext](https://github.com/prathercc/discrub-ext) - Legacy message manipulation and export tool for Discord. (Chrome/Firefox Extension)
 
 *   [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
 
