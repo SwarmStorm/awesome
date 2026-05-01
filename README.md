@@ -652,7 +652,7 @@
 
 *   [tomsmoker/llm\_kg\_generator](https://github.com/tomsmoker/llm_kg_generator) -
 
-*   [karthik-codex/Autogen\_GraphRAG\_Ollama](https://github.com/karthik-codex/Autogen_GraphRAG_Ollama) - Microsoft's GraphRAG + AutoGen + Ollama + Chainlit = Fully Local & Free Multi-Agent RAG Superbot
+*   [karthikvenkatesan-eaton/Autogen\_GraphRAG\_Ollama](https://github.com/karthikvenkatesan-eaton/Autogen_GraphRAG_Ollama) - Microsoft's GraphRAG + AutoGen + Ollama + Chainlit = Fully Local & Free Multi-Agent RAG Superbot
 
 *   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
