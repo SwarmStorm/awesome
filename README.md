@@ -654,7 +654,7 @@
 
 *   [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-*   [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI Digital Marketing Platform. (WIP)
+*   [AJaySi/ALwrity](https://github.com/AJaySi/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts.
 
 *   [Leon1207/Video-RAG-master](https://github.com/Leon1207/Video-RAG-master) - ✨✨\[NeurIPS 2025] This is the official implementation of our paper "Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension"
 
