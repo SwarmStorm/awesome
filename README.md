@@ -15,9 +15,9 @@
 *   [C#](#c-1)
 *   [Java](#java)
 *   [Dockerfile](#dockerfile)
-*   [MDX](#mdx)
 *   [C](#c-2)
 *   [HTML](#html)
+*   [MDX](#mdx)
 *   [Perl](#perl)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -1294,6 +1294,8 @@
 
 *   [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) - ⚡️ Quickly generate a disposable email straight from terminal.
 
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+
 *   [paullouisageneau/telebot](https://github.com/paullouisageneau/telebot) - 3D-printed WebRTC-controlled telepresence robot
 
 *   [nadchif/dnSurfer](https://github.com/nadchif/dnSurfer) - A DNS-only web browser — browse even when HTTP(S) is blocked.
@@ -2072,12 +2074,6 @@
 
 *   [gezp/docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop) - Docker Image for Ubuntu Desktop which support HW GPU accelerated GUI apps. you can access the Container with ssh or remote desktop,  just like Cloud VM.
 
-## MDX
-
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-
-*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-
 ## C
 
 *   [NVIDIA-AI-IOT/Deepstream-Dewarper-App](https://github.com/NVIDIA-AI-IOT/Deepstream-Dewarper-App) - This project demonstrate how to infer and track from a 360 videos by using the dewarper plugin.
@@ -2145,6 +2141,10 @@
 *   [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 *   [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
+
+## MDX
+
+*   [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 
 ## Perl
 
