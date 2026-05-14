@@ -1330,7 +1330,7 @@
 
 *   [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 
-*   [dappros/ethora](https://github.com/dappros/ethora) - Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
+*   [dappros/ethora](https://github.com/dappros/ethora) - SDK monorepo for Ethora chat / messaging platform. (1) Pick an SDK for your frontend stack. (2) Integrate manually or using ethora-setup. (3) Optionally configure app settings, deploy AI agents etc. Server: ethora.com cloud \[free]. Dedicated server + SLA option for enterprise customers.
 
 *   [sobstel/hydropuzzle](https://github.com/sobstel/hydropuzzle) - Surreal tech adventure game for iOS and Android. Built with React Native.
 
