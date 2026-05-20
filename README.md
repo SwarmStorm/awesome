@@ -39,6 +39,7 @@
 *   [Lua](#lua)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
+*   [SCSS](#scss)
 *   [Elixir](#elixir)
 *   [Objective-C](#objective-c)
 
@@ -1926,8 +1927,6 @@
 
 *   [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 
-*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
-
 *   [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
 *   [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
@@ -2311,6 +2310,10 @@
 ## Kotlin
 
 *   [truefedex/GeckoViewNativeWebApp](https://github.com/truefedex/GeckoViewNativeWebApp) - A minimal example of an embedded web application in GekView with two-way communication between the web and native parts. It may not be the best solution, but that's all I've been able to find so far.
+
+## SCSS
+
+*   [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 
 ## Elixir
 
