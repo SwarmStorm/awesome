@@ -97,7 +97,7 @@
 
 *   [guerra2fernando/libriscribe](https://github.com/guerra2fernando/libriscribe) - Libriscribe is an AI-powered open-source book creation system. The system is designed to help you  write your book, from initial concept to a polished manuscript. It uses a multi-agent approach, where specialized AI agents collaborate to handle different stages of the book creation process.
 
-*   [aomukai/Writingway](https://github.com/aomukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable prompts, a project structure view, and a compendium for worldbuilding. Link to our Discord server: https://discord.gg/xkkGaRFXNX
+*   [a-omukai/Writingway](https://github.com/a-omukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable prompts, a project structure view, and a compendium for worldbuilding. Link to our Discord server: https://discord.gg/xkkGaRFXNX
 
 *   [gr8monk3ys/blog-AI](https://github.com/gr8monk3ys/blog-AI) - An AI content generation tool that to automatically create blog posts and books, made for writers.
 
