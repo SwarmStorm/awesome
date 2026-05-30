@@ -1665,6 +1665,8 @@
 
 *   [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
 
+*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+
 *   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 
 *   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -1976,8 +1978,6 @@
 *   [varpeti/QtTransparent](https://github.com/varpeti/QtTransparent) - A crossplatform approach to create an "allways on top", "transparent" and "input transparent" application, using QT. It shows the mouse coordinates on the screen.
 
 *   [r52/quasar](https://github.com/r52/quasar) - Stylize your desktop
-
-*   [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 
 *   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
