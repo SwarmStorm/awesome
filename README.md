@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [SamPlvs/zero-operators](https://github.com/SamPlvs/zero-operators) - Autonomous AI research team: write a plan.md, spawn agents, train, verify, and deliver a clean ML repo.
+
 *   [Aukexecutivedepartment5152/PaperOrchestra](https://github.com/Aukexecutivedepartment5152/PaperOrchestra) - Automate research paper writing with this multi-agent skill pack for coding agents. Convert unstructured data into LaTeX papers using the PaperOrchestra pipeline.
 
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -948,8 +950,6 @@
 *   [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 
 *   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-
-*   [Royal-lobster/Syncia](https://github.com/Royal-lobster/Syncia) - 🌟 Chrome extension that enables users to chat with ChatGPT by opening a sidebar on any website
 
 ## Rust
 
