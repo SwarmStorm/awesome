@@ -955,7 +955,7 @@
 
 *   [paperfoot/suno-cli](https://github.com/paperfoot/suno-cli) - Generate AI music from your terminal — Suno v5.5 with tags, exclude, vocal control, and all generation features
 
-*   [shm11C3/HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A lightweight hardware monitor built with Tauri for real-time hardware status monitoring.
+*   [shm11C3/HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) - A cross-platform hardware monitor with real-time dashboards, usage graphs, and customizable visualizations.
 
 *   [restsend/rustpbx](https://github.com/restsend/rustpbx) - A PBX written by rust
 
