@@ -19,7 +19,6 @@
 *   [HTML](#html)
 *   [MDX](#mdx)
 *   [Perl](#perl)
-*   [Vue](#vue)
 *   [PHP](#php)
 *   [AppleScript](#applescript)
 *   [Tree-sitter Query](#tree-sitter-query)
@@ -28,6 +27,7 @@
 *   [Pug](#pug)
 *   [HCL](#hcl)
 *   [D2](#d2)
+*   [Vue](#vue)
 *   [Zig](#zig)
 *   [Ruby](#ruby)
 *   [TeX](#tex)
@@ -584,6 +584,8 @@
 *   [Guuzzeji/vidmind-ai](https://github.com/Guuzzeji/vidmind-ai) - Welcome to VidMind AI, a project that seamlessly integrates Language and Vision Models (LLM and VLM) to revolutionize video comprehension by decoding hour-long videos, inspired by Arxiv research.
 
 *   [georgegebbett/recipe-buddy](https://github.com/georgegebbett/recipe-buddy) - Recipe Buddy is a tool that enables the easy adding of recipes to Grocy through web scraping.
+
+*   [xianjianlf2/MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) - Open-source AI agent that reads your PDFs and draws editable mind maps — visible tool-calling loop, built-in RAG, BYOK, multi-provider (OpenAI / Claude / DeepSeek)
 
 *   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 
@@ -2155,20 +2157,6 @@
 
 *   [operepo/ope](https://github.com/operepo/ope) - Open Prison Education project - Code and scripts to enable offline docker services and offline laptop syncing for inmate education
 
-## Vue
-
-*   [xianjianlf2/MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) - Auto generate MindMap with ChatGPT
-
-*   [pbkompasz/webcams](https://github.com/pbkompasz/webcams) - Store, find and follow public RTSP streams
-
-*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
-
-*   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
-
-*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
 ## PHP
 
 *   [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static) - Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
@@ -2244,6 +2232,18 @@
 ## D2
 
 *   [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & DevOps Architecture Diagrams-as-Code in Python, D2 and MermaidJS languages
+
+## Vue
+
+*   [pbkompasz/webcams](https://github.com/pbkompasz/webcams) - Store, find and follow public RTSP streams
+
+*   [Goldfish-Social/Goldfish](https://github.com/Goldfish-Social/Goldfish) - Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!
+
+*   [zernonia/supabase-schema](https://github.com/zernonia/supabase-schema) - Secured & Simple Supabase Schema Visualizer
+
+*   [zachwinter/kaleidosync](https://github.com/zachwinter/kaleidosync) - A WebGL Spotify visualizer made with Vue, D3, and Three.js.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## Zig
 
