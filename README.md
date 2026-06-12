@@ -45,6 +45,8 @@
 
 ## Python
 
+*   [yxlao/deepseek-cursor-proxy](https://github.com/yxlao/deepseek-cursor-proxy) - Fixes missing reasoning\_content for DeepSeek V4
+
 *   [SamPlvs/zero-operators](https://github.com/SamPlvs/zero-operators) - Autonomous AI research team: write a plan.md, spawn agents, train, verify, and deliver a clean ML repo.
 
 *   [Aukexecutivedepartment5152/PaperOrchestra](https://github.com/Aukexecutivedepartment5152/PaperOrchestra) - Automate research paper writing with this multi-agent skill pack for coding agents. Convert unstructured data into LaTeX papers using the PaperOrchestra pipeline.
@@ -950,8 +952,6 @@
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 
 *   [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
-
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 
 ## Rust
 
@@ -2079,7 +2079,7 @@
 
 *   [gezp/docker-ubuntu-desktop](https://github.com/gezp/docker-ubuntu-desktop) - Docker Image for Ubuntu Desktop which support HW GPU accelerated GUI apps. you can access the Container with ssh or remote desktop,  just like Cloud VM.
 
-*   [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
+*   [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 
 ## C
 
