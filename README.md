@@ -56,8 +56,6 @@
 
 *   [TheRobotStudio/V2\_DexHand](https://github.com/TheRobotStudio/V2_DexHand) - The stl files and code for the V2 DexHand
 
-*   [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
-
 *   [2-fly-4-ai/awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui) - The largest list online of awesome things related to shadcn/ui
 
 *   [acelords/nextjs-starter-kit-convex](https://github.com/acelords/nextjs-starter-kit-convex) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
@@ -926,7 +924,7 @@
 
 *   [benjamin-awd/StatementSensei](https://github.com/benjamin-awd/StatementSensei) - PDF to CSV conversion for your bank statements
 
-*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -
+*   [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 
 *   [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
 
@@ -1319,6 +1317,8 @@
 *   [pablo-ross/strix-halo-gmktec-evo-x2](https://github.com/pablo-ross/strix-halo-gmktec-evo-x2) - Configuration and documentation for optimizing Ubuntu 24.04 on AMD Ryzen AI Max+ 395 with Radeon 8060S for LLM inference using llama.cpp with ROCm 7 RC and rocWMMA.
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 
