@@ -2040,7 +2040,7 @@
 
 *   [go2ismail/BlazorExampleInvoiceManagementSoftware](https://github.com/go2ismail/BlazorExampleInvoiceManagementSoftware) - Blazor server real world example app. Fully functional invoice management software that can help you manage all your invoices and customers. Developed using Blazor framework and RDLC for invoice print out.
 
-*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 110+ native components including DataGrid, Scheduler, Charts, and advanced theming with full support for Material Design and Fluent UI. If Radzen Blazor is useful to you, a ⭐ on GitHub helps other Blazor developers find it.
+*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 145+ native components including DataGrid, Scheduler, Charts, and advanced theming with full support for Material Design and Fluent UI. If Radzen Blazor is useful to you, a ⭐ on GitHub helps other Blazor developers find it.
 
 *   [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr\_open-source\_DIY\_Humanoid\_Robot\_with\_dexterous\_hands
 
